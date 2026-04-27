@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Julie Le Gallo"
+  description: "Professor of Economics, Institut Agro Dijon — Spatial Econometrics"
+  favicon: favicon.ico
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: supervision.qmd
+        text: Supervision
+      - href: teaching.qmd
+        text: Teaching
+      - href: presentations.qmd
+        text: Presentations
+      - href: links.qmd
+        text: Links
+    right:
+      - icon: envelope
+        href: mailto:julie.le-gallo@institut-agro.fr
+      - icon: github
+        href: https://github.com/jlegallo
+
+  page-footer:
+    left: "© 2025 Julie Le Gallo"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    link-external-icon: true
+    link-external-newwindow: true

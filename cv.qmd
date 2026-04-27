@@ -1,0 +1,88 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-title: "Contents"
+---
+
+::: {style="margin-bottom:0.3rem;"}
+[CV français (PDF)](CV/CV_JLG.pdf){.btn .btn-primary}
+:::
+
+::: {style="margin-bottom:1.5rem;"}
+[CV English (PDF)](CV/CV_JLG_ang.pdf){.btn .btn-outline-primary}
+:::
+
+---
+
+## Current Position
+
+**Professor of Economics** (since 2022)
+CESAER — Centre d'Économie et Sociologie Appliquées aux Espaces Ruraux
+Institut Agro Dijon, Department of Human and Social Sciences
+26 Boulevard Petitjean, 21079 Dijon Cedex, France
+
+---
+
+## Education
+
+| Year | Degree | Institution |
+|------|--------|-------------|
+| 2006 | Agrégation de l'Enseignement Supérieur en Sciences Économiques | National competitive examination (France) |
+| 2002 | PhD in Economic Analysis and Policy *(mention: honors)* | Université de Bourgogne |
+
+**PhD thesis:** *Disparités géographiques et convergence entre régions européennes : approche d'économétrie spatiale*
+
+---
+
+## Academic Positions
+
+| Period | Position | Institution |
+|--------|----------|-------------|
+| 2022 – present | Professor | Institut Agro Dijon |
+| 2015 – 2021 | Professor | AgroSup Dijon |
+| 2008 – 2015 | Professor | Université de Franche-Comté, Dept. of Law, Politics, Economics & Management |
+| 2006 – 2008 | Professor | IUT de Belfort-Montbéliard, Université de Franche-Comté |
+| 2003 – 2006 | Associate Professor *(Maître de conférences)* | Université Montesquieu-Bordeaux |
+| 2002 – 2003 | Visiting Researcher | Regional Economics Applications Laboratory (REAL), University of Illinois |
+| 1998 – 2002 | Teaching Assistant | Département Économie et Gestion, Université de Bourgogne |
+
+---
+
+## Awards & Distinctions
+
+| Year | Award |
+|------|-------|
+| 2025 | **Musgrave Prize** — Best article, *National Tax Journal* |
+| 2014 | Excellence in Reviewing — *Geographical Analysis* |
+| 2010 | Elected Fellow, Spatial Econometrics Association |
+| 2006 | Best Referee — *Regional Studies* |
+| 2005 & 2004 | Second Prize EPAINOS — European Regional Science Association |
+| 2003 | Prix Philippe Aydalot & Prix Vouters (PhD dissertations) |
+
+---
+
+## Editorial Responsibilities
+
+### Editor / Co-editor
+
+| Journal | Role | Period |
+|---------|------|--------|
+| [*Journal of Regional Science*](https://onlinelibrary.wiley.com/journal/14679787) | Co-editor | 2026 – present |
+| [*Journal of Geographical Systems*](https://link.springer.com/journal/10109) | Editor-in-Chief | 2025 – present |
+| [*Frontiers in Sustainable Cities — Urban Economics*](https://www.frontiersin.org/journals/sustainable-cities/sections/urban-economics) | Associate Editor | 2024 – present |
+| [*Papers in Regional Science*](https://rsaiconnect.onlinelibrary.wiley.com/journal/14355957) | Co-editor | 2019 – 2024 |
+| [*Spatial Economic Analysis*](https://www.tandfonline.com/loi/rsea20) | Co-editor | 2007 – 2021 |
+| [*Revue d'Economie Régionale et Urbaine*](http://www.reru.fr/) | Co-editor | 2010 – 2015 |
+
+### Editorial Board Member
+
+| Journal | Period |
+|---------|--------|
+| [*Journal of Regional Science*](https://onlinelibrary.wiley.com/journal/14679787) | 2024 – present |
+| [*Econometrics*](https://www.mdpi.com/journal/econometrics) | 2024 – present |
+| [*Journal of the Korean Planning Association*](https://www.kpa1959.or.kr/) | 2023 – present |
+| [*Revue Economique*](https://reveco.hypotheses.org/a-propos) | 2019 – present |
+| [*Investigaciones Regionales*](https://investigacionesregionales.org/) | 2019 – present |
+| [*Journal of Geographical Systems*](https://link.springer.com/journal/10109) | 2019 – 2024 |
+| [*Journal of Spatial Econometrics*](https://link.springer.com/journal/43071) | 2019 – 2023 |
+

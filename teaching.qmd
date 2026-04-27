@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+---
+
+## 2025–2026
+
+### Institut Agro Dijon
+
+| Course | Level |
+|--------|-------|
+| Introduction to Economics | Bachelor |
+| Public Economics | Master |
+| Advanced Statistics | Master |
+| Spatial Statistics | Master |
+
+Teaching materials are available on the **Heliantice** platform (Institut Agro Dijon).
+
+### Université de Franche-Comté
+
+| Course | Level |
+|--------|-------|
+| Spatial Data Statistics and Econometrics | Master |

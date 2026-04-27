@@ -1,0 +1,44 @@
+---
+title: "Supervision"
+---
+
+## PhD Students
+
+### Current
+
+| Student | Since | Co-supervisor(s) | Partner |
+|---------|-------|------------------|---------|
+| Simon DELAGE | 2024 | M.-L. Breuillé (INRAE) | Geoptis |
+| Fares BEN YOUSSEF | 2024 | M. Kriaa (Univ. Tunis) | — |
+| Ivan MARIN | 2023 | J. Dubé (Univ. Laval, Canada) | — |
+| Louise PHUNG | 2023 | M.-L. Breuillé (INRAE) | CGDD |
+| François LAFONT | 2023 | M.-L. Breuillé (INRAE) | — |
+
+### Completed
+
+| Student | Years | Co-supervisor(s) | Partner |
+|---------|-------|------------------|---------|
+| Alexandra VERLHIAC | 2022–2025 | M.-L. Breuillé (INRAE) | Groupe AVIV |
+| Martin REGNAUD | 2020–2025 | M.-L. Breuillé (INRAE) | Groupe AVIV |
+| Capucine CHAPEL | 2020–2023 | M. Hilal (INRAE) | — |
+| Yacine ALLAM | 2020–2023 | M.-L. Breuillé (INRAE) | — |
+| Rémi LEI | 2019–2023 | J.-S. Ay (INRAE), O. Dupré (CEREMA) | — |
+| Rawaa LAAJIMI | 2017–2022 | S. Benammou (Univ. Sousse) | — |
+| Oudah YOBOM | 2016–2020 | — | — |
+| Alexandre FLAGE | 2016–2019 | F. Cochard (Univ. Franche-Comté) | — |
+| Youba N'DIAYE | 2014–2018 | M.-L. Breuillé (INRAE) | — |
+| Jean-Christian TISSERAND | 2013–2016 | Y. Gabuthy (Univ. Lorraine) | — |
+| Benjamin LAURENT | 2008–2014 | R. Guillain (Univ. Bourgogne) | — |
+| Laïsa RO'I | 2005–2013 | M.-A. Sénégas (Univ. Bordeaux) | — |
+
+---
+
+## Postdoctoral Researchers
+
+| Researcher | Years |
+|------------|-------|
+| Yoann MORIN | 2022–2024 |
+| Yuheng LING | 2022–2023 |
+| Juan A. PIEDRA-PEÑA | 2022–2024 |
+| Eliakim KAKPO | 2018–2020 |
+| Kassoum AYOUBA | 2016–2019 |

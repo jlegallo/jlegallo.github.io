@@ -1,0 +1,89 @@
+/* Academic website — minimal overrides on Flatly theme */
+
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Navbar mosaic background */
+.navbar {
+  background-image: url('images/mosaic.svg') !important;
+  background-size: auto 100% !important;
+  background-repeat: repeat-x !important;
+  background-color: #EAF4FB !important;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #2c3e50 !important;
+  text-shadow: none !important;
+}
+
+.nav-link:hover {
+  color: #1a252f !important;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  border-bottom: 2px solid #dee2e6;
+  padding-bottom: 0.4rem;
+}
+
+/* Home page columns */
+.columns {
+  margin-top: 2rem;
+}
+
+img.rounded {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+/* Publication list — tighter spacing */
+#publications-english li,
+#publications-french li {
+  margin-bottom: 0.4rem;
+}
+
+/* Button */
+.btn-primary {
+  margin-bottom: 1.5rem;
+}
+
+/* Publication TOC anchors */
+.pub-toc {
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 2rem;
+  background: #f8f9fa;
+  line-height: 2;
+}
+
+.pub-toc a {
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+/* Research project blocks */
+.project {
+  border-left: 3px solid #dee2e6;
+  padding: 0.6rem 0 0.6rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.project img {
+  object-fit: contain;
+  max-height: 60px;
+}
+
+/* Footer */
+.nav-footer {
+  font-size: 0.85rem;
+  color: #6c757d;
+}

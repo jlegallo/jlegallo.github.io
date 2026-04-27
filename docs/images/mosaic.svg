@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
+  <rect width="400" height="60" fill="#EAF4FB"/>
+
+  <!-- Losanges -->
+  <polygon points="0,30 20,0 40,30 20,60"    fill="#BBDEFB"/>
+  <polygon points="40,30 60,0 80,30 60,60"    fill="#90CAF9"/>
+  <polygon points="80,30 100,0 120,30 100,60"  fill="#C8E6C9"/>
+  <polygon points="120,30 140,0 160,30 140,60" fill="#FFF9C4"/>
+  <polygon points="160,30 180,0 200,30 180,60" fill="#B3E5FC"/>
+  <polygon points="200,30 220,0 240,30 220,60" fill="#E1BEE7"/>
+  <polygon points="240,30 260,0 280,30 260,60" fill="#B2EBF2"/>
+  <polygon points="280,30 300,0 320,30 300,60" fill="#64B5F6"/>
+  <polygon points="320,30 340,0 360,30 340,60" fill="#DCEDC8"/>
+  <polygon points="360,30 380,0 400,30 380,60" fill="#FFF8E1"/>
+
+  <!-- Triangles bord supérieur -->
+  <polygon points="0,0 20,0 0,30"            fill="#E3F2FD"/>
+  <polygon points="20,0 40,30 60,0"          fill="#BBDEFB"/>
+  <polygon points="60,0 80,30 100,0"         fill="#E3F2FD"/>
+  <polygon points="100,0 120,30 140,0"       fill="#FFF3E0"/>
+  <polygon points="140,0 160,30 180,0"       fill="#E8F5E9"/>
+  <polygon points="180,0 200,30 220,0"       fill="#B3E5FC"/>
+  <polygon points="220,0 240,30 260,0"       fill="#E0F2F1"/>
+  <polygon points="260,0 280,30 300,0"       fill="#BBDEFB"/>
+  <polygon points="300,0 320,30 340,0"       fill="#E8EAF6"/>
+  <polygon points="340,0 360,30 380,0"       fill="#FFF9C4"/>
+  <polygon points="380,0 400,0 400,30"       fill="#B2EBF2"/>
+
+  <!-- Triangles bord inférieur -->
+  <polygon points="0,30 0,60 20,60"          fill="#E8F5E9"/>
+  <polygon points="20,60 40,30 60,60"        fill="#E3F2FD"/>
+  <polygon points="60,60 80,30 100,60"       fill="#BBDEFB"/>
+  <polygon points="100,60 120,30 140,60"     fill="#E8EAF6"/>
+  <polygon points="140,60 160,30 180,60"     fill="#FFF8E1"/>
+  <polygon points="180,60 200,30 220,60"     fill="#E8F5E9"/>
+  <polygon points="220,60 240,30 260,60"     fill="#90CAF9"/>
+  <polygon points="260,60 280,30 300,60"     fill="#B2EBF2"/>
+  <polygon points="300,60 320,30 340,60"     fill="#FFF9C4"/>
+  <polygon points="340,60 360,30 380,60"     fill="#BBDEFB"/>
+  <polygon points="380,60 400,30 400,60"     fill="#E1BEE7"/>
+</svg>

@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.mdpi.com)",
+      "WebFetch(domain:onlinelibrary.wiley.com)",
+      "WebFetch(domain:journals.sagepub.com)",
+      "WebFetch(domain:www.tandfonline.com)",
+      "WebFetch(domain:api.crossref.org)",
+      "WebSearch",
+      "WebFetch(domain:sites.google.com)",
+      "WebFetch(domain:region-developpement.univ-tln.fr)",
+      "WebFetch(domain:journal.srsa.org)",
+      "WebFetch(domain:journal.fsv.cuni.cz)",
+      "WebFetch(domain:authors.elsevier.com)",
+      "WebFetch(domain:www.springerlink.com)",
+      "WebFetch(domain:ideas.repec.org)",
+      "WebFetch(domain:regionetdeveloppement.univ-tln.fr)",
+      "WebFetch(domain:irx.sagepub.com)",
+      "WebFetch(domain:rrs.scholasticahq.com)",
+      "WebFetch(domain:www.cairn.info)",
+      "WebFetch(domain:www.springer.com)",
+      "WebFetch(domain:inger.com)",
+      "WebFetch(domain:www.accessecon.com)",
+      "WebFetch(domain:journals.openedition.org)",
+      "WebFetch(domain:reunido.uniovi.es)",
+      "WebFetch(domain:www.academia.edu)"
+    ]
+  }
+}

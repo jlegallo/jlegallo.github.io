@@ -1,0 +1,47 @@
+---
+title: ""
+page-layout: full
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](photo.png){.rounded width="220px"}
+
+**Julie Le Gallo**
+Professor of Economics  — 
+[Institut Agro Dijon](https://www.institut-agro-dijon.fr) — [CESAER](https://cesaer.dijon.hub.inrae.fr/)
+
+DSHS Longelles
+26 Boulevard Petitjean
+21079 Dijon Cedex, France
+
+✉ [julie.le-gallo@institut-agro.fr](mailto:julie.le-gallo@institut-agro.fr)
+
+☎ (+33) 03 80 77 23 66
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+
+## About
+
+I am Professor of Economics at [CESAER](https://cesaer.dijon.hub.inrae.fr/) (Centre d'Économie et Sociologie Appliquées aux Espaces Ruraux) and [Institut Agro Dijon](https://www.institut-agro-dijon.fr), Department of Human and Social Sciences.
+
+My research lies at the intersection of **spatial data statistics and econometrics**, **urban and regional economics**, and **local public economics**. I develop and apply spatial statistical methods to study territorial inequalities, housing markets, fiscal federalism, and the evaluation of territorial public policies.
+
+I am also involved in the [SecGo online seminars](https://sites.google.com/view/secgo/home) in economic geography.
+
+### Recent Publications
+
+- Agrawal, D., Le Gallo, J., Breuillé, M.-L. (2025). Tax competition with intermunicipal cooperation. *National Tax Journal*, 78(1), 5–43. **[Prix Musgrave]**
+- Debarsy, N., Le Gallo, J. (2025). Identification of spatial spillovers. *Journal of Economic Surveys*, 39(5), 2152–2173.
+- Morin, Y., Le Gallo, J., Regnaud, M., Breuillé, M. (2025). PARIS2019: Impact of rent control. *Journal of Housing Economics*, 70, 102101.
+- Galli, F., Le Gallo, J., Piedra-Peña, J.A., Breuillé, M. (2026). Is compulsory inter-municipal cooperation efficient? *Regional Science and Urban Economics*, 117, 104185.
+
+[See all publications →](publications.qmd)
+:::
+
+::::

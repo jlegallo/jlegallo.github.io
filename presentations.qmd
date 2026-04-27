@@ -1,0 +1,31 @@
+---
+title: "Presentations & Interviews"
+---
+
+## Online Presentations
+
+| Date | Event | Topic |
+|------|-------|-------|
+| Aug 2023 | ERSA 2023 | [Spatial patterns and economic impacts of short-term rentals](https://www.youtube.com/watch?v=x5G7MSsfVyc&list=PLZOe8Rgc6WSwMZKYXxd_7zXbONiN0nfTZ&index=39) |
+| Nov 2022 | SecGo Seminars | [The empirical content of spatial spillovers: Identification issues](https://youtu.be/Au26jPEGJZM?t=5) |
+| Feb 2022 | PUCA-POPSU | [Exode urbain : un mythe, des réalités](https://www.youtube.com/watch?v=Nr7gfUxzyn0) |
+| Mar 2021 | NTTS 2021 | [Beyond GDP: An analysis of the socio-economic diversity of European regions](https://coms.events/NTTS2021/data/abstracts/en/abstract_0006.html) |
+
+---
+
+## Media & Interviews
+
+| Date | Outlet | Topic |
+|------|--------|-------|
+| Jul 2023 | France Info | [Airbnb et Jeux Olympiques](https://www.francetvinfo.fr/les-jeux-olympiques/jo-2024/enquete-franceinfo-paris-2024-a-un-an-des-jeux-olympiques-faut-il-craindre-une-bulle-airbnb-sur-le-marche-immobilier-de-la-capitale_5916872.html) |
+| Mar 2023 | Libération | [Covid-19 and urban exodus](https://www.liberation.fr/lifestyle/mobilites-lexode-urbain-post-covid-est-un-mythe-20230323_2VELHVNMXZAK3KISMAXDVWVJJQ/) |
+| Dec 2020 | France 3 BFC | [Carte des loyers en Côte-d'Or](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/logement-decouvrez-carte-loyers-bourgogne-franche-comte-commune-commune-1904492.html) |
+| Jan 2018 | Radio Dijon Campus | [Discrimination au logement](https://archives.radiodijoncampus.com/sounds/comme-un-labyrinthe-avec-julie-le-gallo/) |
+| Dec 2017 | France Inter | [Discrimination au logement](https://www.radiofrance.fr/franceinter/chercher-a-se-loger-la-meilleure-facon-d-etre-discrimine-7236019) |
+
+---
+
+## SecGo Online Seminars
+
+I co-organize **SecGo**, an online seminar series in economic geography.
+[Join our seminars →](https://sites.google.com/site/legallopage/)
