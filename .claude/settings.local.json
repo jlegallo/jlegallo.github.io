@@ -23,7 +23,8 @@
       "WebFetch(domain:www.accessecon.com)",
       "WebFetch(domain:journals.openedition.org)",
       "WebFetch(domain:reunido.uniovi.es)",
-      "WebFetch(domain:www.academia.edu)"
+      "WebFetch(domain:www.academia.edu)",
+      "WebFetch(domain:jlegallo.github.io)"
     ]
   }
 }

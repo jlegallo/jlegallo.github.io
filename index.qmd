@@ -34,14 +34,6 @@ My research lies at the intersection of **spatial data statistics and econometri
 
 I am also involved in the [SecGo online seminars](https://sites.google.com/view/secgo/home) in economic geography.
 
-### Recent Publications
-
-- Agrawal, D., Le Gallo, J., Breuillé, M.-L. (2025). Tax competition with intermunicipal cooperation. *National Tax Journal*, 78(1), 5–43. **[Prix Musgrave]**
-- Debarsy, N., Le Gallo, J. (2025). Identification of spatial spillovers. *Journal of Economic Surveys*, 39(5), 2152–2173.
-- Morin, Y., Le Gallo, J., Regnaud, M., Breuillé, M. (2025). PARIS2019: Impact of rent control. *Journal of Housing Economics*, 70, 102101.
-- Galli, F., Le Gallo, J., Piedra-Peña, J.A., Breuillé, M. (2026). Is compulsory inter-municipal cooperation efficient? *Regional Science and Urban Economics*, 117, 104185.
-
-[See all publications →](publications.qmd)
 :::
 
 ::::

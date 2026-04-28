@@ -161,12 +161,19 @@ ul.task-list li input[type="checkbox"] {
 Dépôt GitHub : https://github.com/jlegallo/jlegallo.github.io<br>
 Fichiers source : dossier <code>site-perso</code> sur votre ordinateur</p>
 <hr>
-<section id="mettre-à-jour-le-site-depuis-ce-pc-windows-configuration-déjà-faite" class="level2">
-<h2 class="anchored" data-anchor-id="mettre-à-jour-le-site-depuis-ce-pc-windows-configuration-déjà-faite">1. Mettre à jour le site depuis CE PC (Windows, configuration déjà faite)</h2>
+<section id="important-authentification-github-par-ssh" class="level2">
+<h2 class="anchored" data-anchor-id="important-authentification-github-par-ssh">Important : authentification GitHub par SSH</h2>
+<p>Depuis 2021, GitHub n’accepte plus les mots de passe pour <code>git push</code> / <code>git pull</code>. Il faut configurer une <strong>clé SSH</strong> sur chaque ordinateur (à faire <strong>une seule fois</strong> par machine). La procédure est décrite plus bas, dans la section dédiée à chaque système d’exploitation.</p>
+<hr>
+</section>
+<section id="mettre-à-jour-le-site-depuis-le-macbook-air-configuration-déjà-faite-ssh-ok" class="level2">
+<h2 class="anchored" data-anchor-id="mettre-à-jour-le-site-depuis-le-macbook-air-configuration-déjà-faite-ssh-ok">1. Mettre à jour le site depuis le MacBook Air (configuration déjà faite, SSH OK)</h2>
 <ol type="1">
-<li><p>Ouvrez PowerShell</p></li>
+<li><p>Ouvrez le Terminal</p></li>
 <li><p>Allez dans le dossier du site :</p>
-<pre><code>cd C:\Users\jlega\Documents\site-perso</code></pre></li>
+<pre><code>cd ~/site-perso</code></pre></li>
+<li><p>Récupérez les dernières modifications :</p>
+<pre><code>git pull</code></pre></li>
 <li><p>Modifiez les fichiers <code>.qmd</code> avec votre éditeur habituel</p></li>
 <li><p>Regénérez le site :</p>
 <pre><code>quarto render</code></pre></li>
@@ -178,28 +185,51 @@ git push</code></pre></li>
 </ol>
 <hr>
 </section>
-<section id="mettre-à-jour-le-site-depuis-un-autre-pc-windows" class="level2">
-<h2 class="anchored" data-anchor-id="mettre-à-jour-le-site-depuis-un-autre-pc-windows">2. Mettre à jour le site depuis un AUTRE PC (Windows)</h2>
+<section id="mettre-à-jour-le-site-depuis-le-pc-windows" class="level2">
+<h2 class="anchored" data-anchor-id="mettre-à-jour-le-site-depuis-le-pc-windows">2. Mettre à jour le site depuis le PC Windows</h2>
 <section id="installation-une-seule-fois-sur-ce-pc" class="level3">
 <h3 class="anchored" data-anchor-id="installation-une-seule-fois-sur-ce-pc">Installation (une seule fois sur ce PC)</h3>
 <ol type="1">
-<li><p>Installez <strong>Git</strong> : https://git-scm.com/download/win (options par défaut)</p></li>
+<li><p>Installez <strong>Git</strong> : https://git-scm.com/download/win (options par défaut). Cela installe aussi <strong>Git Bash</strong>, qu’on utilisera pour SSH.</p></li>
 <li><p>Installez <strong>Quarto</strong> : https://quarto.org/docs/get-started/ (téléchargez l’installateur Windows)</p></li>
-<li><p>Ouvrez PowerShell et configurez votre identité Git :</p>
-<pre><code>git config --global user.email "votre-email@example.com"
+<li><p>Ouvrez <strong>Git Bash</strong> (clic droit dans n’importe quel dossier → « Git Bash Here ») et configurez votre identité :</p>
+<pre><code>git config --global user.email "jlegallo07@gmail.com"
 git config --global user.name "Julie Le Gallo"</code></pre></li>
-<li><p>Récupérez le dépôt depuis GitHub :</p>
-<pre><code>git clone https://github.com/jlegallo/jlegallo.github.io.git site-perso
-cd site-perso</code></pre>
-<p>→ Cela crée un dossier <code>site-perso</code> avec tous vos fichiers.</p></li>
 </ol>
+</section>
+<section id="configuration-ssh-sur-ce-pc-une-seule-fois" class="level3">
+<h3 class="anchored" data-anchor-id="configuration-ssh-sur-ce-pc-une-seule-fois">Configuration SSH sur ce PC (une seule fois)</h3>
+<ol type="1">
+<li><p>Dans <strong>Git Bash</strong>, générez une clé SSH (laissez la passphrase vide en appuyant deux fois sur Entrée) :</p>
+<pre><code>ssh-keygen -t ed25519 -C "jlegallo07@gmail.com"</code></pre></li>
+<li><p>Démarrez l’agent SSH et ajoutez la clé :</p>
+<pre><code>eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519</code></pre></li>
+<li><p>Copiez la clé publique dans le presse-papier :</p>
+<pre><code>clip &lt; ~/.ssh/id_ed25519.pub</code></pre></li>
+<li><p>Allez sur https://github.com/settings/keys → <strong>New SSH key</strong></p>
+<ul>
+<li>Title : <code>PC Windows Julie</code> (ou autre nom au choix)</li>
+<li>Key type : <code>Authentication Key</code></li>
+<li>Key : collez (Ctrl+V)</li>
+<li>Cliquez <strong>Add SSH key</strong></li>
+</ul></li>
+<li><p>Testez la connexion :</p>
+<pre><code>ssh -T git@github.com</code></pre>
+<p>Réponse attendue : <code>Hi jlegallo! You've successfully authenticated...</code></p></li>
+</ol>
+</section>
+<section id="récupérer-le-dépôt-une-seule-fois" class="level3">
+<h3 class="anchored" data-anchor-id="récupérer-le-dépôt-une-seule-fois">Récupérer le dépôt (une seule fois)</h3>
+<pre><code>git clone git@github.com:jlegallo/jlegallo.github.io.git site-perso
+cd site-perso</code></pre>
 </section>
 <section id="modifier-et-publier-depuis-ce-pc" class="level3">
 <h3 class="anchored" data-anchor-id="modifier-et-publier-depuis-ce-pc">Modifier et publier (depuis ce PC)</h3>
 <ol type="1">
-<li><p>Ouvrez PowerShell et allez dans le dossier :</p>
-<pre><code>cd chemin\vers\site-perso</code></pre></li>
-<li><p>Récupérez les dernières modifications (important si vous travaillez sur plusieurs PC) :</p>
+<li><p>Ouvrez Git Bash ou PowerShell et allez dans le dossier :</p>
+<pre><code>cd chemin/vers/site-perso</code></pre></li>
+<li><p>Récupérez les dernières modifications :</p>
 <pre><code>git pull</code></pre></li>
 <li><p>Modifiez vos fichiers <code>.qmd</code></p></li>
 <li><p>Regénérez et publiez :</p>
@@ -211,20 +241,53 @@ git push</code></pre></li>
 <hr>
 </section>
 </section>
-<section id="mettre-à-jour-le-site-depuis-un-mac" class="level2">
-<h2 class="anchored" data-anchor-id="mettre-à-jour-le-site-depuis-un-mac">3. Mettre à jour le site depuis un MAC</h2>
+<section id="mettre-à-jour-le-site-depuis-lautre-mac" class="level2">
+<h2 class="anchored" data-anchor-id="mettre-à-jour-le-site-depuis-lautre-mac">3. Mettre à jour le site depuis l’autre Mac</h2>
 <section id="installation-une-seule-fois-sur-ce-mac" class="level3">
 <h3 class="anchored" data-anchor-id="installation-une-seule-fois-sur-ce-mac">Installation (une seule fois sur ce Mac)</h3>
 <ol type="1">
 <li><p>Installez <strong>Git</strong> : ouvrez le Terminal et tapez <code>git --version</code> → si Git n’est pas installé, macOS propose de l’installer automatiquement, acceptez.</p></li>
 <li><p>Installez <strong>Quarto</strong> : https://quarto.org/docs/get-started/ (téléchargez l’installateur macOS .pkg)</p></li>
 <li><p>Configurez votre identité Git dans le Terminal :</p>
-<pre><code>git config --global user.email "votre-email@example.com"
+<pre><code>git config --global user.email "jlegallo07@gmail.com"
 git config --global user.name "Julie Le Gallo"</code></pre></li>
-<li><p>Récupérez le dépôt depuis GitHub :</p>
-<pre><code>git clone https://github.com/jlegallo/jlegallo.github.io.git site-perso
-cd site-perso</code></pre></li>
 </ol>
+</section>
+<section id="configuration-ssh-sur-ce-mac-une-seule-fois" class="level3">
+<h3 class="anchored" data-anchor-id="configuration-ssh-sur-ce-mac-une-seule-fois">Configuration SSH sur ce Mac (une seule fois)</h3>
+<ol type="1">
+<li><p>Dans le Terminal, générez une clé SSH (sans passphrase) :</p>
+<pre><code>ssh-keygen -t ed25519 -C "jlegallo07@gmail.com" -f ~/.ssh/id_ed25519 -N ""</code></pre></li>
+<li><p>Créez le fichier de configuration SSH pour intégrer la clé au trousseau macOS :</p>
+<pre><code>cat &gt; ~/.ssh/config &lt;&lt;'EOF'
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519
+  UseKeychain yes
+  AddKeysToAgent yes
+EOF
+chmod 600 ~/.ssh/config</code></pre></li>
+<li><p>Ajoutez la clé à l’agent SSH avec stockage dans le trousseau :</p>
+<pre><code>ssh-add --apple-use-keychain ~/.ssh/id_ed25519</code></pre></li>
+<li><p>Copiez la clé publique dans le presse-papier :</p>
+<pre><code>pbcopy &lt; ~/.ssh/id_ed25519.pub</code></pre></li>
+<li><p>Allez sur https://github.com/settings/keys → <strong>New SSH key</strong></p>
+<ul>
+<li>Title : <code>Mac Bureau Julie</code> (ou autre nom au choix)</li>
+<li>Key type : <code>Authentication Key</code></li>
+<li>Key : collez (Cmd+V)</li>
+<li>Cliquez <strong>Add SSH key</strong></li>
+</ul></li>
+<li><p>Testez la connexion :</p>
+<pre><code>ssh -T git@github.com</code></pre>
+<p>Réponse attendue : <code>Hi jlegallo! You've successfully authenticated...</code></p></li>
+</ol>
+</section>
+<section id="récupérer-le-dépôt-une-seule-fois-1" class="level3">
+<h3 class="anchored" data-anchor-id="récupérer-le-dépôt-une-seule-fois-1">Récupérer le dépôt (une seule fois)</h3>
+<pre><code>git clone git@github.com:jlegallo/jlegallo.github.io.git ~/site-perso
+cd ~/site-perso</code></pre>
 </section>
 <section id="modifier-et-publier-depuis-ce-mac" class="level3">
 <h3 class="anchored" data-anchor-id="modifier-et-publier-depuis-ce-mac">Modifier et publier (depuis ce Mac)</h3>
@@ -242,6 +305,15 @@ git push</code></pre></li>
 </ol>
 <hr>
 </section>
+</section>
+<section id="si-le-dépôt-utilise-encore-une-url-https-bascule-en-ssh" class="level2">
+<h2 class="anchored" data-anchor-id="si-le-dépôt-utilise-encore-une-url-https-bascule-en-ssh">Si le dépôt utilise encore une URL HTTPS (bascule en SSH)</h2>
+<p>Si vous avez déjà cloné le dépôt avant en HTTPS et que <code>git push</code> demande un mot de passe, basculez l’URL distante en SSH :</p>
+<pre><code>cd chemin/vers/site-perso
+git remote set-url origin git@github.com:jlegallo/jlegallo.github.io.git
+git remote -v</code></pre>
+<p>Le résultat doit afficher <code>git@github.com:...</code> (et non plus <code>https://...</code>).</p>
+<hr>
 </section>
 <section id="règle-importante-toujours-commencer-par-git-pull" class="level2">
 <h2 class="anchored" data-anchor-id="règle-importante-toujours-commencer-par-git-pull">Règle importante : toujours commencer par <code>git pull</code></h2>
@@ -310,7 +382,9 @@ git push</code></pre></li>
 <h2 class="anchored" data-anchor-id="en-cas-de-problème">En cas de problème</h2>
 <ul>
 <li><strong>Le site ne se met pas à jour</strong> : vérifiez sur https://github.com/jlegallo/jlegallo.github.io/actions que le déploiement est bien passé (coche verte).</li>
-<li><strong>Erreur <code>git push</code></strong> : vérifiez que vous avez bien fait <code>git pull</code> avant, et que vous êtes connecté à GitHub.</li>
+<li><strong><code>git push</code> demande un mot de passe</strong> : la clé SSH n’est pas configurée ou le dépôt est encore en HTTPS. Voir la section « bascule en SSH » plus haut.</li>
+<li><strong><code>Permission denied (publickey)</code></strong> : la clé SSH n’a pas été ajoutée à GitHub. Refaites l’étape 4/5 de la configuration SSH (https://github.com/settings/keys).</li>
+<li><strong>Erreur <code>git pull</code> (conflit)</strong> : un fichier a été modifié sur deux machines en même temps. Ouvrez le fichier indiqué, gardez la bonne version, puis <code>git add .</code> + <code>git commit</code> + <code>git push</code>.</li>
 <li><strong>Erreur <code>quarto render</code></strong> : vérifiez la syntaxe du fichier <code>.qmd</code> modifié (indentation, guillemets).</li>
 </ul>
 
