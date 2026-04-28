@@ -26,7 +26,7 @@ DSHS Longelles
 
 ::: {.column width="65%"}
 
-## About
+## About me
 
 I am Professor of Economics at [CESAER](https://cesaer.dijon.hub.inrae.fr/) (Centre d'Économie et Sociologie Appliquées aux Espaces Ruraux) and [Institut Agro Dijon](https://www.institut-agro-dijon.fr), Department of Human and Social Sciences.
 

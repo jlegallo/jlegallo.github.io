@@ -6,23 +6,21 @@ toc-title: "Contents"
 
 ## Research Interests
 
-My work combines theoretical advances in **spatial statistics and econometrics** with empirical applications in urban, regional, and public economics.
+My work combines theoretical advances in **spatial data statistics and econometrics** with empirical applications in urban, regional, and public economics.
 
 **Thematic areas:**
 
 - Land and housing markets (land use, housing policies, short-term rentals)
-- Spatial disparities and regional convergence
 - Fiscal federalism, inter-municipal cooperation, tax competition
-- Discrimination in housing and labor markets
+- Spatial disparities, residential mobility and regional convergence
 - Environmental and agricultural economics
 
 **Methodological contributions:**
 
-- Spatial panel data models (cross-sectional and panel)
-- Bayesian spatial econometrics
-- Causal inference and impact evaluation
-- Experimental methods (laboratory, field, correspondence tests)
 - Exploratory spatial data analysis (ESDA)
+- Spatial data & network models (cross-sectional and panel)
+- Experimental methods (laboratory, field, correspondence tests)
+- Causal inference and impact evaluation
 
 ---
 
