@@ -24,7 +24,16 @@
       "WebFetch(domain:journals.openedition.org)",
       "WebFetch(domain:reunido.uniovi.es)",
       "WebFetch(domain:www.academia.edu)",
-      "WebFetch(domain:jlegallo.github.io)"
+      "WebFetch(domain:jlegallo.github.io)",
+      "WebFetch(domain:annals.ensae.fr)",
+      "WebFetch(domain:www.deboecksuperieur.com)",
+      "WebFetch(domain:www.jstor.org)",
+      "WebFetch(domain:link.springer.com)",
+      "WebFetch(domain:www.lcdpu.fr)",
+      "WebFetch(domain:shs.cairn.info)",
+      "WebFetch(domain:eud.ube.fr)",
+      "WebFetch(domain:hal.science)",
+      "WebFetch(domain:www.researchgate.net)"
     ]
   }
 }

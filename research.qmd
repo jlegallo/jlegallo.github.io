@@ -52,7 +52,7 @@ My work combines theoretical advances in **spatial data statistics and econometr
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/sgp.png){width="110px"}
+[![](logos/sgp.png){width="110px"}](https://www.societedesgrandsprojets.fr/)
 :::
 ::: {.column width="85%"}
 **Grand Paris Express: effects on real estate, residential, and tourism dynamics** (2025–2026)
@@ -64,7 +64,7 @@ Société des Grands Projets — with M.-L. Breuillé (CESAER) and J. Dubé (Uni
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/ministere.png){width="110px"}
+[![](logos/ministere.png){width="110px"}](https://www.cohesion-territoires.gouv.fr/)
 :::
 ::: {.column width="85%"}
 **Housing tension in France** (2024–2025)
@@ -76,7 +76,7 @@ Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/bfc.png){width="110px"}
+[![](logos/bfc.png){width="110px"}](https://www.bourgognefranchecomte.fr/)
 :::
 ::: {.column width="85%"}
 **Land take in France: determinants, regulation, and housing market consequences** (2023–2026)
@@ -88,7 +88,7 @@ Région Bourgogne Franche-Comté — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/ministere.png){width="110px"}
+[![](logos/ministere.png){width="110px"}](https://www.cohesion-territoires.gouv.fr/)
 :::
 ::: {.column width="85%"}
 **From mediatic myths to socio-economic realities: spatial dynamics of rural spaces** (2023–2025)
@@ -102,7 +102,7 @@ Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/apur.png){width="110px"}
+[![](logos/apur.png){width="110px"}](https://www.apur.org/)
 :::
 ::: {.column width="85%"}
 **Evaluation of rent control in Paris (PARIS2019)** (2022–2024)
@@ -114,7 +114,7 @@ APUR — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/ministere.png){width="110px"}
+[![](logos/ministere.png){width="110px"}](https://www.cohesion-territoires.gouv.fr/)
 :::
 ::: {.column width="85%"}
 **Effects of collaborative economy on the housing market** (2021–2022)
@@ -126,7 +126,7 @@ Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/puca.jpg){width="110px"}
+[![](logos/puca.jpg){width="110px"}](https://www.urbanisme-puca.gouv.fr/)
 :::
 ::: {.column width="85%"}
 **Observing mobilities with digital housing data during the pandemic** (2021–2022)
@@ -138,7 +138,7 @@ PUCA — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/ministere.png){width="110px"}
+[![](logos/ministere.png){width="110px"}](https://www.cohesion-territoires.gouv.fr/)
 :::
 ::: {.column width="85%"}
 **Rent indicators for French municipalities** (2018–2020)
@@ -150,7 +150,7 @@ Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/imagine.png){width="110px"}
+[![](logos/imagine.png){width="110px"}](https://imajine-project.eu/)
 :::
 ::: {.column width="85%"}
 **IMAJINE — Integrative Mechanisms for Addressing Spatial Justice and Territorial Inequalities in Europe** (2016–2021)
@@ -162,7 +162,7 @@ Horizon 2020 — Coordinated by Univ. Aberystwyth; CESAER partner
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/sgp_old.png){width="110px"}
+[![](logos/sgp_old.png){width="110px"}](https://www.societedesgrandsprojets.fr/)
 :::
 ::: {.column width="85%"}
 **Benefits of urban densification — Grand Paris Express** (2015–2019)
@@ -174,7 +174,7 @@ Société du Grand Paris — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-![](logos/ministere.png){width="110px"}
+[![](logos/ministere.png){width="110px"}](https://www.cohesion-territoires.gouv.fr/)
 :::
 ::: {.column width="85%"}
 **Determinants of rent formation** (2016–2017)

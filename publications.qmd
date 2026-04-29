@@ -60,7 +60,7 @@ toc: false
 - Ayouba, K., Le Gallo, J., Breuillé, M.-L., Grivault, C. (2020). [Does Airbnb disrupt the private rental market? An empirical analysis for French cities](https://doi.org/10.1177/0160017618821428). *International Regional Science Review*, 43(1-2), 76–104.
 - Ayouba, K., Le Gallo, J., Vallone, A. (2020). [Beyond GDP: an analysis of the socio-economic diversity of European regions](https://www.tandfonline.com/doi/full/10.1080/00036846.2019.1646885). *Applied Economics*, 52(9), 1010–1029.
 - L'Horty, Y., Le Gallo, J., du Parquet, L., Petit, P. (2019). [Discrimination in access to housing: a test on urban areas in Metropolitan France](https://insee.fr/en/statistiques/4467360). *Economie et Statistique*, 513, 27–45.
-- Georgantzis, N., Le Gallo, J., Peterle, E., Tisserand, J.-C. (2019). [Gender differences in legal disputes: the case of French labor courts](https://www.cairn.info/revue-economique-2019-6-page-1201.htm). *Revue Economique*, 70(3), 1201–1212.
+- Georgantzis, N., Le Gallo, J., Peterle, E., Tisserand, J.-C. (2019). [Gender differences in legal disputes: the case of French labor courts](https://www.cairn.info/revue-economique-2019-6-page-1201.htm). *Revue Economique*, 70(6), 1201–1212.
 - Duboz, M.-L., Le Gallo, J., Kroichvili, N. (2019). [Which attracts more FDI in services: national or regional performance?](https://link.springer.com/article/10.1007/s00168-019-00949-4) *Annals of Regional Science*, 63(3), 601–638.
 - Ay, J.-S., Le Gallo, J., Hilal, M., Cavailhès, J. (2018). [Does issuing building permits reduce the cost of land?](https://www.persee.fr/doc/estat_0336-1454_2018_num_500_1_10834) *Economie et Statistique*, 500-501-502, 45–67.
 - Kostov, P., Le Gallo, J. (2018). [What role for human capital in the growth process](http://dx.doi.org/10.1111/sjpe.12196). *Scottish Journal of Political Economy*, 65, 501–527.
@@ -97,7 +97,7 @@ toc: false
 - Arbia, G., Le Gallo, J., Piras, G. (2008). [Does evidence on regional economic convergence depend on the estimation strategy?](http://www.tandfonline.com/doi/full/10.1080/17421770801996664) *Spatial Economic Analysis*, 3(2), 209–224.
 - Dall'erba, S., Le Gallo, J. (2008). [Regional convergence and the impact of European structural funds over 1989-1999](http://onlinelibrary.wiley.com/doi/10.1111/j.1435-5957.2008.00184.x/abstract). *Papers in Regional Science*, 87(2), 219–244.
 - Chasco, C., Le Gallo, J. (2008). [Spatial analysis of urban growth in Spain, 1900-2001](https://link.springer.com/article/10.1007/s00181-007-0150-5). *Empirical Economics*, 34(1), 59–80.
-- Fingleton, B., Le Gallo, J. (2007). [Finite sample properties of estimators of spatial models with autoregressive, or moving average, disturbances](https://annals.ensae.fr/). *Annales d'Economie et de Statistique*, 87-88, 39–62.
+- Fingleton, B., Le Gallo, J. (2007). [Finite sample properties of estimators of spatial models with autoregressive, or moving average, disturbances](https://www.jstor.org/stable/27650041). *Annales d'Economie et de Statistique*, 87-88, 39–62.
 - Ertur, C., Le Gallo, J., LeSage, J. (2007). [Local versus global convergence in Europe: a bayesian spatial econometric approach](https://rrs.scholasticahq.com/article/8289-local-versus-global-convergence-in-europe-a-bayesian-spatial-econometric-approach). *Review of Regional Studies*, 37(1), 82–108.
 - Dall'erba, S., Le Gallo, J. (2007). [The impact of EU regional support on growth and employment](http://journal.fsv.cuni.cz/mag/article/show/id/1082). *Czech Journal of Economics and Finance*, 57(7-8), 325–340.
 - Guillain, R., Le Gallo, J., Boiteux-Orain, C. (2006). [Changes in spatial and sectoral patterns of employment in Ile-de-France, 1978-1997](https://doi.org/10.1080/00420980600945203). *Urban Studies*, 43(11), 2075–2098.
@@ -162,8 +162,7 @@ toc: false
 
 ### Books
 
-- Le Gallo, J., Dubé, J., Devaux, N., Legros, D. (2024). *Evaluation d'impact des politiques publiques d'aménagement. Une approche pratique basée sur le marché immobilier*. De Boeck.
-- Le Gallo, J., Breuillé, M.-L. (2021). [*Evaluation d'impact des politiques publiques d'aménagement*](https://www.deboecksuperieur.com/ouvrage/9782807363502-introduction-l-analyse-des-politiques-publiques-d-amenagement). De Boeck.
+- Le Gallo, J., Dubé, J., Devaux, N., Legros, D. (2024). [*Introduction à l'analyse des politiques publiques d'aménagement. Une approche pratique*](https://www.deboecksuperieur.com/ouvrage/9782807363502-introduction-l-analyse-des-politiques-publiques-d-amenagement). De Boeck.
 
 ### Edited Books
 
@@ -186,21 +185,21 @@ toc: false
 - Le Gallo, J., Ertur, C. (2019). Heterogeneous reaction versus interaction in spatial econometric regional growth. In [*Handbook of Regional Growth and Development Theories*](https://www.elgaronline.com/view/edcoll/9781788970013/9781788970013.xml). Edward Elgar.
 - Le Gallo, J., Bouayad Agha, S., Védrine, L. (2018). Econométrie spatiale sur données de panel. In [*Manuel d'Analyse Spatiale*](https://www.insee.fr/fr/information/3635442). INSEE.
 - Le Gallo, J., Pirotte, A. (2017). Models for spatial panels. In [*The Econometrics of Multi-dimensional Panels*](http://www.springer.com/in/book/9783319607825). Springer.
-- Le Gallo, J. (2014). Cross-section spatial regression models. In *Handbook of Regional Science* (1st ed.). Springer, pp. 1511–1533.
-- Le Gallo, J., Fingleton, B. (2014). Regional growth and convergence empirics. In *Handbook of Regional Science* (1st ed.). Springer, pp. 291–315.
+- Le Gallo, J. (2014). [Cross-section spatial regression models](https://link.springer.com/referenceworkentry/10.1007/978-3-642-23430-9_85). In *Handbook of Regional Science* (1st ed.). Springer, pp. 1511–1533.
+- Le Gallo, J., Fingleton, B. (2014). [Regional growth and convergence empirics](https://link.springer.com/referenceworkentry/10.1007/978-3-642-23430-9_17). In *Handbook of Regional Science* (1st ed.). Springer, pp. 291–315.
 - Le Gallo, J., Chasco, C. (2012). Dealing with data at various spatial scales and supports. In [*Defining the Spatial Scale in Modern Regional Analysis*](http://www.springer.com/economics/regional+science/book/978-3-642-31993-8). Springer, pp. 281–310.
 - Le Gallo, J., Fingleton, B. (2009). Endogeneity in a spatial context. In [*Progress in Spatial Analysis*](http://www.springer.com/economics/regional+science/book/978-3-642-03324-7). Springer, pp. 59–73.
 - Le Gallo, J., Guillain, R. (2009). Employment density in Ile-de-France: evidence from local regressions. In [*Progress in Spatial Analysis*](http://www.springer.com/economics/regional+science/book/978-3-642-03324-7). Springer, pp. 233–251.
-- Le Gallo, J., Rey, S.J. (2009). Spatial analysis of economic convergence. In *The Palgrave Handbook of Econometrics Volume II: Applied Econometrics*. Palgrave-MacMillan, pp. 1251–1292.
+- Le Gallo, J., Rey, S.J. (2009). [Spatial analysis of economic convergence](https://link.springer.com/chapter/10.1057/9780230244405_27). In *The Palgrave Handbook of Econometrics Volume II: Applied Econometrics*. Palgrave-MacMillan, pp. 1251–1292.
 - Le Gallo, J., Ertur, C. (2009). Regional growth and convergence: heterogeneous reaction versus interaction in spatial econometric approaches. In *Handbook of Regional Growth and Development Theories*. Edward Elgar, pp. 374–388.
-- Le Gallo, J., Gaschet, F. (2009). La dimension spatiale de la ségrégation. In *Métropolisation et ségrégation*. Presses Universitaires de Bordeaux, pp. 45–65.
-- Le Gallo, J., Chasco, C. (2008). Spatial analysis of urban growth in Spain, 1900-2001. In *Spatial Econometrics: Methods and Applications*. Physica-Verlag/Springer, pp. 59–80.
-- Le Gallo, J., Anselin, L., Jayet, H. (2008). Spatial econometrics and panel data models. In *The Econometrics of Panel Data* (3rd ed.). Kluwer Academic Publishers, pp. 625–660.
-- Le Gallo, J., Guillain, R. (2006). La localisation des activités économiques en Ile-de-France. In *Paris et ses franges : étalement urbain et polycentrisme*. Editions Universitaires de Dijon, pp. 203–230.
-- Le Gallo, J., Dall'erba, S. (2006). Convergence spatiale et sectorielle de la productivité du travail en Europe. In *Convergence et dynamique d'innovation au sein de l'Espace Européen*. Editions De Boeck, pp. 107–133.
-- Le Gallo, J., Ertur, C. (2003). An exploratory spatial data analysis of European regional disparities, 1980-1995. In *European Regional Growth*. Springer, pp. 55–98.
-- Le Gallo, J., Ertur, C., Baumont, C. (2003). A spatial econometric analysis of convergence across European regions, 1980-1995. In *European Regional Growth*. Springer, pp. 99–130.
-- Le Gallo, J., Baumont, C., Ertur, C. (2003). Spatial regimes in the European growth process, 1980-1995. In *European Regional Growth*. Springer, pp. 131–158.
+- Le Gallo, J., Gaschet, F. (2009). [La dimension spatiale de la ségrégation](https://www.lcdpu.fr/livre/?GCOI=27000100505210&fa=sommaire). In *Métropolisation et ségrégation*. Presses Universitaires de Bordeaux, pp. 45–65.
+- Le Gallo, J., Chasco, C. (2008). [Spatial analysis of urban growth in Spain, 1900-2001](https://link.springer.com/chapter/10.1007/978-3-7908-2070-6_4). In *Spatial Econometrics: Methods and Applications*. Physica-Verlag/Springer, pp. 59–80.
+- Le Gallo, J., Anselin, L., Jayet, H. (2008). [Spatial econometrics and panel data models](https://link.springer.com/chapter/10.1007/978-3-540-75892-1_19). In *The Econometrics of Panel Data* (3rd ed.). Kluwer Academic Publishers, pp. 625–660.
+- Le Gallo, J., Guillain, R. (2006). [La localisation des activités économiques en Ile-de-France](https://eud.ube.fr/economie-gestion-politique/143-paris-et-ses-franges-etalement-urbain-et-polycentrisme-2915552541.html). In *Paris et ses franges : étalement urbain et polycentrisme*. Editions Universitaires de Dijon, pp. 203–230.
+- Le Gallo, J., Dall'erba, S. (2006). [Convergence spatiale et sectorielle de la productivité du travail en Europe](https://shs.cairn.info/politique-regionale-europeen--9782804149963-page-107?lang=fr). In *Convergence et dynamique d'innovation au sein de l'Espace Européen*. Editions De Boeck, pp. 107–133.
+- Le Gallo, J., Ertur, C. (2003). [An exploratory spatial data analysis of European regional disparities, 1980-1995](https://link.springer.com/chapter/10.1007/978-3-662-07136-6_3). In *European Regional Growth*. Springer, pp. 55–98.
+- Le Gallo, J., Ertur, C., Baumont, C. (2003). [A spatial econometric analysis of convergence across European regions, 1980-1995](https://link.springer.com/chapter/10.1007/978-3-662-07136-6_4). In *European Regional Growth*. Springer, pp. 99–130.
+- Le Gallo, J., Baumont, C., Ertur, C. (2003). [Spatial Convergence Clubs and the European Regional Growth Process, 1980-1995](https://link.springer.com/chapter/10.1007/978-3-662-07136-6_5). In *European Regional Growth*. Springer, pp. 131–158.
 - Le Gallo, J., Baumont, C. (2000). Les nouvelles centralités urbaines. In *Economie géographique : les théories à l'épreuve des faits*. Economica, pp. 211–239.
 
 ---
@@ -252,11 +251,11 @@ toc: false
 - Fingleton, B., Le Gallo, J. (2012). Endogénéité et modèle de Durbin. *Revue d'Economie Régionale et Urbaine*.
 - Arbia, G., Le Gallo, J., Páez, A., Dall'erba, S., Buliung, R. (Eds.) (2009). [*Progress in Spatial Analysis*](http://www.springer.com/economics/regional+science/book/978-3-642-03324-7). Springer.
 - Fingleton, B., Le Gallo, J. (2008). [Estimating spatial models with endogenous variables, a spatial lag and spatially dependent disturbances](http://onlinelibrary.wiley.com/doi/10.1111/j.1435-5957.2008.00187.x/abstract). *Papers in Regional Science*, 87(3), 319–339.
-- Fingleton, B., Le Gallo, J. (2007). [Finite sample properties of estimators of spatial models with autoregressive, or moving average, disturbances](https://annals.ensae.fr/). *Annales d'Economie et de Statistique*, 87-88, 39–62.
+- Fingleton, B., Le Gallo, J. (2007). [Finite sample properties of estimators of spatial models with autoregressive, or moving average, disturbances](https://www.jstor.org/stable/27650041). *Annales d'Economie et de Statistique*, 87-88, 39–62.
 - Baumont, C., Le Gallo, J., Dall'erba, S., Ertur, C. (2005). [On the property of diffusion in the spatial error model](http://www.tandfonline.com/doi/abs/10.1080/13504850500120722). *Applied Economics Letters*, 12(9), 533–536.
 - Le Gallo, J. (2004). [Hétérogénéité spatiale, principes et méthodes](https://www.cairn.info/revue-economie-et-prevision-2004-1-page-151.htm). *Economie et Prévision*, 162(1), 151–172.
-- Le Gallo, J. (2014). Cross-section spatial regression models. In *Handbook of Regional Science* (1st ed.). Springer, pp. 1511–1533.
-- Le Gallo, J., Anselin, L., Jayet, H. (2008). Spatial econometrics and panel data models. In *The Econometrics of Panel Data* (3rd ed.). Kluwer Academic Publishers, pp. 625–660.
+- Le Gallo, J. (2014). [Cross-section spatial regression models](https://link.springer.com/referenceworkentry/10.1007/978-3-642-23430-9_85). In *Handbook of Regional Science* (1st ed.). Springer, pp. 1511–1533.
+- Le Gallo, J., Anselin, L., Jayet, H. (2008). [Spatial econometrics and panel data models](https://link.springer.com/chapter/10.1007/978-3-540-75892-1_19). In *The Econometrics of Panel Data* (3rd ed.). Kluwer Academic Publishers, pp. 625–660.
 - Le Gallo, J. (2002). Econométrie spatiale: l'autocorrélation spatiale dans les modèles de régression linéaire. *Economie et Prévision*, 155(4), 139–158.
 
 ---
@@ -281,9 +280,9 @@ toc: false
 - Chasco, C., Le Gallo, J. (2008). [Spatial analysis of urban growth in Spain, 1900-2001](https://link.springer.com/article/10.1007/s00181-007-0150-5). *Empirical Economics*, 34(1), 59–80.
 - Baumont, C., Le Gallo, J., Ertur, C. (2004). [Spatial analysis of employment and population: the case of the agglomeration of Dijon, 1999](https://onlinelibrary.wiley.com/doi/10.1111/j.1538-4632.2004.tb01130.x). *Geographical Analysis*, 36(2), 146–176.
 - Le Gallo, J., Guillain, R. (2009). Employment density in Ile-de-France: evidence from local regressions. In *Progress in Spatial Analysis*. Springer, pp. 233–251.
-- Le Gallo, J., Gaschet, F. (2009). La dimension spatiale de la ségrégation. In *Métropolisation et ségrégation*. Presses Universitaires de Bordeaux, pp. 45–65.
-- Le Gallo, J., Chasco, C. (2008). Spatial analysis of urban growth in Spain, 1900-2001. In *Spatial Econometrics: Methods and Applications*. Physica-Verlag/Springer, pp. 59–80.
-- Le Gallo, J., Guillain, R. (2006). La localisation des activités économiques en Ile-de-France. In *Paris et ses franges : étalement urbain et polycentrisme*. Editions Universitaires de Dijon, pp. 203–230.
+- Le Gallo, J., Gaschet, F. (2009). [La dimension spatiale de la ségrégation](https://www.lcdpu.fr/livre/?GCOI=27000100505210&fa=sommaire). In *Métropolisation et ségrégation*. Presses Universitaires de Bordeaux, pp. 45–65.
+- Le Gallo, J., Chasco, C. (2008). [Spatial analysis of urban growth in Spain, 1900-2001](https://link.springer.com/chapter/10.1007/978-3-7908-2070-6_4). In *Spatial Econometrics: Methods and Applications*. Physica-Verlag/Springer, pp. 59–80.
+- Le Gallo, J., Guillain, R. (2006). [La localisation des activités économiques en Ile-de-France](https://eud.ube.fr/economie-gestion-politique/143-paris-et-ses-franges-etalement-urbain-et-polycentrisme-2915552541.html). In *Paris et ses franges : étalement urbain et polycentrisme*. Editions Universitaires de Dijon, pp. 203–230.
 - Le Gallo, J., Baumont, C. (2000). Les nouvelles centralités urbaines. In *Economie géographique : les théories à l'épreuve des faits*. Economica, pp. 211–239.
 
 ---
@@ -377,13 +376,13 @@ toc: false
 - Le Gallo, J. (2004). [La dynamique des disparités régionales dans l'Union Européenne, 1980-1995](https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2004-4-page-491.html). *Revue d'Economie Régionale et Urbaine*, 4, 491–512.
 - Ertur, C., Le Gallo, J. (2003). [Exploratory spatial data analysis of the distribution of regional per capita GDP in Europe, 1980-1995](http://onlinelibrary.wiley.com/doi/10.1111/j.1435-5597.2003.tb00010.x/abstract). *Papers in Regional Science*, 82(2), 175–201.
 - Baumont, C., Le Gallo, J., Ertur, C. (2002). [Estimations des effets de proximité dans le processus de convergence régionale](https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2002-2-p-203.htm). *Revue d'Economie Régionale et Urbaine*, 2, 203–216.
-- Le Gallo, J., Fingleton, B. (2014). Regional growth and convergence empirics. In *Handbook of Regional Science* (1st ed.). Springer, pp. 291–315.
-- Le Gallo, J., Rey, S.J. (2009). Spatial analysis of economic convergence. In *The Palgrave Handbook of Econometrics Volume II: Applied Econometrics*. Palgrave-MacMillan, pp. 1251–1292.
+- Le Gallo, J., Fingleton, B. (2014). [Regional growth and convergence empirics](https://link.springer.com/referenceworkentry/10.1007/978-3-642-23430-9_17). In *Handbook of Regional Science* (1st ed.). Springer, pp. 291–315.
+- Le Gallo, J., Rey, S.J. (2009). [Spatial analysis of economic convergence](https://link.springer.com/chapter/10.1057/9780230244405_27). In *The Palgrave Handbook of Econometrics Volume II: Applied Econometrics*. Palgrave-MacMillan, pp. 1251–1292.
 - Le Gallo, J., Ertur, C. (2009). Regional growth and convergence: heterogeneous reaction versus interaction in spatial econometric approaches. In *Handbook of Regional Growth and Development Theories*. Edward Elgar, pp. 374–388.
-- Le Gallo, J., Dall'erba, S. (2006). Convergence spatiale et sectorielle de la productivité du travail en Europe. In *Convergence et dynamique d'innovation au sein de l'Espace Européen*. Editions De Boeck, pp. 107–133.
-- Le Gallo, J., Ertur, C. (2003). An exploratory spatial data analysis of European regional disparities, 1980-1995. In *European Regional Growth*. Springer, pp. 55–98.
-- Le Gallo, J., Ertur, C., Baumont, C. (2003). A spatial econometric analysis of convergence across European regions, 1980-1995. In *European Regional Growth*. Springer, pp. 99–130.
-- Le Gallo, J., Baumont, C., Ertur, C. (2003). Spatial regimes in the European growth process, 1980-1995. In *European Regional Growth*. Springer, pp. 131–158.
+- Le Gallo, J., Dall'erba, S. (2006). [Convergence spatiale et sectorielle de la productivité du travail en Europe](https://shs.cairn.info/politique-regionale-europeen--9782804149963-page-107?lang=fr). In *Convergence et dynamique d'innovation au sein de l'Espace Européen*. Editions De Boeck, pp. 107–133.
+- Le Gallo, J., Ertur, C. (2003). [An exploratory spatial data analysis of European regional disparities, 1980-1995](https://link.springer.com/chapter/10.1007/978-3-662-07136-6_3). In *European Regional Growth*. Springer, pp. 55–98.
+- Le Gallo, J., Ertur, C., Baumont, C. (2003). [A spatial econometric analysis of convergence across European regions, 1980-1995](https://link.springer.com/chapter/10.1007/978-3-662-07136-6_4). In *European Regional Growth*. Springer, pp. 99–130.
+- Le Gallo, J., Baumont, C., Ertur, C. (2003). [Spatial Convergence Clubs and the European Regional Growth Process, 1980-1995](https://link.springer.com/chapter/10.1007/978-3-662-07136-6_5). In *European Regional Growth*. Springer, pp. 131–158.
 
 ---
 
@@ -392,7 +391,7 @@ toc: false
 - Le Gallo, J., Sénégas, M.A. (2023). [On the proper computation of the Hausman test statistic in standard linear panel data models](https://www.mdpi.com/2225-1146/11/4/25). *Econometrics*, 11(4).
 - Tisserand, J.C., Le Gallo, J., Cochard, F., Georgantzis, N. (2021). [The fairness hypothesis across different populations: meta-analysis on the ultimatum and dictator games](https://www.sciencedirect.com/science/article/pii/S2214804320302895). *Journal of Behavioral and Experimental Economics*, 90, 101613.
 - Plunket, A., Le Gallo, J. (2020). [Regional gatekeepers, inventor networks and inventive performance](https://www.sciencedirect.com/science/article/pii/S0048733320300615). *Research Policy*, 49(5), 103981.
-- Georgantzis, N., Le Gallo, J., Peterle, E., Tisserand, J.-C. (2019). [Gender differences in legal disputes: the case of French labor courts](https://www.cairn.info/revue-economique-2019-6-page-1201.htm). *Revue Economique*, 70(3), 1201–1212.
+- Georgantzis, N., Le Gallo, J., Peterle, E., Tisserand, J.-C. (2019). [Gender differences in legal disputes: the case of French labor courts](https://www.cairn.info/revue-economique-2019-6-page-1201.htm). *Revue Economique*, 70(6), 1201–1212.
 - Brisset, K., Le Gallo, J., Cochard, F. (2015). [Secret versus public reserve price in an 'outcry' English procurement auction](http://www.sciencedirect.com/science/article/pii/S0925527315002820). *International Journal of Production Economics*, 169, 285–298.
 - Bazen, S., Le Gallo, J. (2009). [The state-federal dichotomy in the effects of minimum wages on teenage employment in the United States](http://www.sciencedirect.com/science/article/pii/S016517650900278X). *Economics Letters*, 105(3), 267–269.
 
