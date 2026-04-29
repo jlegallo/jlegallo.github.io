@@ -1,5 +1,6 @@
 /* Academic website — minimal overrides on Flatly theme */
 
+
 body {
   font-size: 16px;
   line-height: 1.7;
@@ -80,6 +81,21 @@ img.rounded {
 .project img {
   object-fit: contain;
   max-height: 60px;
+}
+
+/* Back to top button */
+.back-to-top {
+  text-align: right;
+  margin-top: 0.8rem;
+  font-size: 1.4rem;
+}
+.back-to-top a {
+  text-decoration: none;
+  color: #2c3e50;
+  opacity: 0.5;
+}
+.back-to-top a:hover {
+  opacity: 1;
 }
 
 /* Footer */

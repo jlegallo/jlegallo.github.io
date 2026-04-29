@@ -107,6 +107,8 @@ Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
 ::: {.column width="85%"}
 **Evaluation of rent control in Paris (PARIS2019)** (2022–2024)
 APUR — with M.-L. Breuillé (CESAER)
+
+📄 [Report on the impact of rent control in Paris](https://www.apur.org/fr/logement-hebergement/evolution-parc-logements/effets-encadrement-loyers-paris-2023)
 :::
 ::::
 :::
@@ -131,6 +133,8 @@ Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
 ::: {.column width="85%"}
 **Observing mobilities with digital housing data during the pandemic** (2021–2022)
 PUCA — with M.-L. Breuillé (CESAER)
+
+🗺️ [Visualization of residential mobility flows in France](https://exode-urbain-carto.figli.io/)
 :::
 ::::
 :::
@@ -143,6 +147,8 @@ PUCA — with M.-L. Breuillé (CESAER)
 ::: {.column width="85%"}
 **Rent indicators for French municipalities** (2018–2020)
 Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
+
+🏠 [Rent indicators database 2018](https://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2018)
 :::
 ::::
 :::

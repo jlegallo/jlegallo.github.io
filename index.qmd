@@ -12,11 +12,11 @@ page-layout: full
 Professor of Economics  — 
 [Institut Agro Dijon](https://www.institut-agro-dijon.fr) — [CESAER](https://cesaer.dijon.hub.inrae.fr/)
 
-DSHS Longelles
+✉ DSHS Longelles
 26 Boulevard Petitjean
 21079 Dijon Cedex, France
 
-✉ [julie.le-gallo@institut-agro.fr](mailto:julie.le-gallo@institut-agro.fr)
+@ [julie.le-gallo@institut-agro.fr](mailto:julie.le-gallo@institut-agro.fr)
 
 ☎ (+33) 03 80 77 23 66
 :::
@@ -29,6 +29,8 @@ DSHS Longelles
 ## About me
 
 I am Professor of Economics at [CESAER](https://cesaer.dijon.hub.inrae.fr/) (Centre d'Économie et Sociologie Appliquées aux Espaces Ruraux) and [Institut Agro Dijon](https://www.institut-agro-dijon.fr), Department of Human and Social Sciences.
+
+[![](logos/1d4dc0701796-logo-cesaer.png){height="45px"}](https://cesaer.dijon.hub.inrae.fr/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](logos/44a94e5ef572-institut_agro_dijon_cmjn_marque-fille.webp){height="60px"}](https://www.institut-agro-dijon.fr)
 
 My research lies at the intersection of **spatial data statistics and econometrics**, **urban and regional economics**, and **local public economics**. I develop and apply spatial statistical methods to study territorial inequalities, housing markets, fiscal federalism, and the evaluation of territorial public policies.
 
