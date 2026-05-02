@@ -14,7 +14,7 @@
   <polygon points="360,30 380,0 400,30 380,60" fill="#FFF8E1"/>
 
   <!-- Triangles bord supérieur -->
-  <polygon points="0,0 20,0 0,30"            fill="#E3F2FD"/>
+  <polygon points="0,0 20,0 0,30"            fill="#B2EBF2"/>
   <polygon points="20,0 40,30 60,0"          fill="#BBDEFB"/>
   <polygon points="60,0 80,30 100,0"         fill="#E3F2FD"/>
   <polygon points="100,0 120,30 140,0"       fill="#FFF3E0"/>
@@ -27,7 +27,7 @@
   <polygon points="380,0 400,0 400,30"       fill="#B2EBF2"/>
 
   <!-- Triangles bord inférieur -->
-  <polygon points="0,30 0,60 20,60"          fill="#E8F5E9"/>
+  <polygon points="0,30 0,60 20,60"          fill="#E1BEE7"/>
   <polygon points="20,60 40,30 60,60"        fill="#E3F2FD"/>
   <polygon points="60,60 80,30 100,60"       fill="#BBDEFB"/>
   <polygon points="100,60 120,30 140,60"     fill="#E8EAF6"/>

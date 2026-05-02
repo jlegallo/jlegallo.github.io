@@ -1,5 +1,12 @@
 /* Academic website — minimal overrides on Flatly theme */
 
+a {
+  color: #8369AB;
+}
+
+a:hover {
+  color: #5e4a7a;
+}
 
 body {
   font-size: 16px;
@@ -96,6 +103,20 @@ img.rounded {
 }
 .back-to-top a:hover {
   opacity: 1;
+}
+
+/* TOC sidebar */
+#TOC .nav-link {
+  color: #8369AB;
+}
+
+#TOC .nav-link:hover {
+  color: #5e4a7a;
+}
+
+#TOC .nav-link.active {
+  color: #8369AB;
+  border-left-color: #8369AB;
 }
 
 /* Footer */

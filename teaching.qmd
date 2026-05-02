@@ -9,9 +9,9 @@ title: "Teaching"
 | Course | Level |
 |--------|-------|
 | Introduction to Economics | Bachelor |
-| Public Economics | Master |
-| Advanced Statistics | Master |
-| Spatial Statistics | Master |
+| Public Economics | Graduate |
+| Advanced Statistics | Graduate |
+| Spatial Statistics | Graduate |
 
 Teaching materials are available on the **Heliantice** platform (Institut Agro Dijon).
 
@@ -19,4 +19,4 @@ Teaching materials are available on the **Heliantice** platform (Institut Agro D
 
 | Course | Level |
 |--------|-------|
-| Spatial Data Statistics and Econometrics | Master |
+| Spatial Data Statistics and Econometrics | Graduate |

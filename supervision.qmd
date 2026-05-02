@@ -1,5 +1,8 @@
 ---
 title: "Supervision"
+toc: true
+toc-title: "Contents"
+toc-depth: 2
 ---
 
 ## PhD Students
