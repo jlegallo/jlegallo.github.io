@@ -43,7 +43,6 @@ My work combines theoretical advances in **spatial data statistics and econometr
 
 - Flage, A., Le Gallo, J., Ruedin, D. Discrimination during the Paris 2024 Olympics: Evidence from a field experiment on Airbnb.
 - Marin, I., Dubé, J., Le Gallo, J. The spatial structure of competitive interactions: Evidence from public procurement networks in Quebec.
-- Le Gallo, J. Soft clustering and fuzzy convergence clubs for EU regional income dynamics, 2000-2023
 
 ---
 
