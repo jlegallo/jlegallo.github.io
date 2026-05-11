@@ -40,9 +40,9 @@ toc: false
 
 ### Refereed Articles (English)
 
-- Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*.
 - Allam, Y., Breuillé, M., Le Gallo, J. (forthcoming). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*.
-- Ben Youssef, F., Kriaa, M., Le Gallo, J. (forthcoming). [Impact of migration status on employment quality: Causal empirical evidence for Tunisian migrants](https://doi.org/10.1080/00036846.2025.2495888). *Applied Economics*.
+- Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, 8.
+- Ben Youssef, F., Kriaa, M., Le Gallo, J. (2026). [Impact of migration status on employment quality: Causal empirical evidence for Tunisian migrants](https://doi.org/10.1080/00036846.2025.2495888). *Applied Economics*, 58(22), 4373-4385.
 - Galli, F., Le Gallo, J., Piedra-Peña, J.A., Breuillé, M. (2026). [Is compulsory inter-municipal cooperation an efficiency booster?](https://www.sciencedirect.com/science/article/pii/S0166046225001024) *Regional Science and Urban Economics*, 117, 104185.
 - Dubé, J., Le Gallo, J., Hilal, M., Champagne, M.-P., Legros, D. (2026). [Can public investment in transport influence densification and land use? Evidence from the Tramway of Dijon (France)](https://www.sciencedirect.com/science/article/pii/S0967070X25004706). *Transport Policy*, 176, 103927.
 - Ling, Y., Le Gallo, J. (2025). [Choosing right Bayesian tools: A comparative study of modern Bayesian methods in spatial econometric models](https://www.mdpi.com/2225-1146/13/4/49). *Econometrics*, 13(4), 49.
@@ -293,9 +293,9 @@ toc: false
 
 ### 2. Location Choices and Spatial Distribution of Economic Activities
 
-- Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*.
+- Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, vol. 6.
 - Dubé, J., Le Gallo, J., Hilal, M., Champagne, M.-P., Legros, D. (2026). [Can public investment in transport influence densification and land use? Evidence from the Tramway of Dijon (France)](https://www.sciencedirect.com/science/article/pii/S0967070X25004706). *Transport Policy*, 176, 103927.
-- Ben Youssef, F., Kriaa, M., Le Gallo, J. (forthcoming). [Impact of migration status on employment quality: Causal empirical evidence for Tunisian migrants](https://doi.org/10.1080/00036846.2025.2495888). *Applied Economics*.
+- Ben Youssef, F., Kriaa, M., Le Gallo, J. (2026). [Impact of migration status on employment quality: Causal empirical evidence for Tunisian migrants](https://doi.org/10.1080/00036846.2025.2495888). *Applied Economics*, 58(22), 4373-4385.
 - Ling, Y., Le Gallo, J., Breuillé, M. (2025). [From COVID-19 to 'new normal'? Revisiting of Parisian short-term rental markets and their dynamics](https://www.tandfonline.com/doi/full/10.1080/13683500.2024.2362378). *Current Issues in Tourism*, 28(13), 2173–2188.
 - Ling, Y., Le Gallo, J., Allam, Y., Breuillé, M., Grivault, C. (2024). [Airbnb des villes et des champs à l'épreuve de la Covid-19](https://journals.openedition.org/rei/13033). *Revue d'Economie Industrielle*, 186, 9–88.
 - Le Gallo, J., Breuillé, M., Verlhiac, A. (2022). [Residential migration and the Covid-19 crisis: Towards an urban exodus in France?](https://www.insee.fr/en/statistiques/6667537) *Economie et Statistique*, 536-7, 57–73.
