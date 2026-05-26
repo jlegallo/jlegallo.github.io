@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  11 MAY 2026 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.26)  26 MAY 2026 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,10 +314,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count316
-) (CV_JLG_ang.aux
-Package babel Info: 'french' activates 'french' shorthands.
-(babel)             Reported on input line 14.
-)
+) (CV_JLG_ang.aux)
 \openout1 = `CV_JLG_ang.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
@@ -338,6 +335,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
+Package babel Info: 'french' activates 'french' shorthands.
+(babel)             Reported on input line 46.
 LaTeX Info: Redefining \degres on input line 46.
 
 *geometry* driver: auto-detecting
@@ -420,447 +419,447 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--142
+Underfull \hbox (badness 10000) in paragraph at lines 139--143
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 155--170
+Overfull \hbox (6.0pt too wide) in alignment at lines 156--171
  [] [] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 174--192
+Overfull \hbox (6.0pt too wide) in alignment at lines 175--193
  [] [] 
  []
 
 ignored error: Infinite glue shrinkage found in box being split [3]
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 202--210
+Overfull \hbox (6.0pt too wide) in alignment at lines 203--211
  [] [] 
  []
 
 [4]
-Overfull \hbox (6.0pt too wide) in alignment at lines 218--235
+Overfull \hbox (6.0pt too wide) in alignment at lines 219--236
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 259--260
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 261--265
+Overfull \hbox (6.0pt too wide) in alignment at lines 262--266
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 271--304
+Overfull \hbox (6.0pt too wide) in alignment at lines 272--305
  [] [] 
  []
 
 ignored error: Infinite glue shrinkage found in box being split [6]
 ignored error: Infinite glue shrinkage found in box being split [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--337
+Underfull \hbox (badness 10000) in paragraph at lines 335--338
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--343
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--356
+Underfull \hbox (badness 10000) in paragraph at lines 355--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--363
+Underfull \hbox (badness 10000) in paragraph at lines 358--364
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 364--374
+Underfull \hbox (badness 10000) in paragraph at lines 365--375
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--379
+Underfull \hbox (badness 10000) in paragraph at lines 376--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--386
+Underfull \hbox (badness 10000) in paragraph at lines 381--387
 
  []
 
 [10]
-Overfull \hbox (8.08002pt too wide) in paragraph at lines 387--393
+Overfull \hbox (8.08002pt too wide) in paragraph at lines 388--394
 \T1/cmr/bx/it/12 Eco-no-mie et Sta-tis-tique/Economics and Sta-tis-tics\T1/cmr/
 m/n/12 , 536-7, pp. 57-73 (with M. Breuillé
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--393
+Underfull \hbox (badness 10000) in paragraph at lines 388--394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--401
+Underfull \hbox (badness 10000) in paragraph at lines 395--402
 
  []
 
 
-Overfull \hbox (6.62056pt too wide) in paragraph at lines 402--410
+Overfull \hbox (6.62056pt too wide) in paragraph at lines 403--411
 \T1/cmr/m/n/12 using conti-nuous mea-sures, \T1/cmr/bx/it/12 Ti-jd-schrift voor
  eco-no-mische en so-ciale geo-gra-fie\T1/cmr/m/n/12 , 111(5),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--410
+Underfull \hbox (badness 10000) in paragraph at lines 403--411
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 411--416
+Underfull \hbox (badness 10000) in paragraph at lines 412--417
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--425
+Underfull \hbox (badness 10000) in paragraph at lines 418--426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--431
+Underfull \hbox (badness 10000) in paragraph at lines 427--432
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 432--434
+Underfull \hbox (badness 10000) in paragraph at lines 433--435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--441
+Underfull \hbox (badness 10000) in paragraph at lines 436--442
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--445
+Underfull \hbox (badness 10000) in paragraph at lines 443--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--452
+Underfull \hbox (badness 10000) in paragraph at lines 447--453
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--458
+Underfull \hbox (badness 10000) in paragraph at lines 454--459
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 459--464
+Underfull \hbox (badness 10000) in paragraph at lines 460--465
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--467
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--473
+Underfull \hbox (badness 10000) in paragraph at lines 469--474
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--483
+Underfull \hbox (badness 10000) in paragraph at lines 475--484
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 484--489
+Underfull \hbox (badness 10000) in paragraph at lines 485--490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--496
+Underfull \hbox (badness 10000) in paragraph at lines 491--497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--501
+Underfull \hbox (badness 10000) in paragraph at lines 498--502
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--507
+Underfull \hbox (badness 10000) in paragraph at lines 503--508
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 508--511
+Underfull \hbox (badness 10000) in paragraph at lines 509--512
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--515
+Underfull \hbox (badness 10000) in paragraph at lines 513--516
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--531
+Underfull \hbox (badness 10000) in paragraph at lines 521--532
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--535
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 546--576
+Underfull \hbox (badness 10000) in paragraph at lines 547--577
 
  []
 
 [17] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 581--582
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 587--592
+Underfull \hbox (badness 10000) in paragraph at lines 588--593
 
  []
 
 
-Overfull \hbox (2.63567pt too wide) in paragraph at lines 597--603
+Overfull \hbox (2.63567pt too wide) in paragraph at lines 598--604
 \T1/cmr/m/n/12 - Com-ment éva-luer l'im-pact en-vi-ron-ne-men-tal des usages de
 s sols ?, \T1/cmr/bx/it/12 Les Echos, Le Cercle,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 597--603
+Underfull \hbox (badness 10000) in paragraph at lines 598--604
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 608--609
+Underfull \hbox (badness 10000) in paragraph at lines 609--610
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 612--630
+Overfull \hbox (6.0pt too wide) in alignment at lines 613--631
  [] [] 
  []
 
 ignored error: Infinite glue shrinkage found in box being split [20]
-Overfull \hbox (6.0pt too wide) in alignment at lines 634--667
+Overfull \hbox (6.0pt too wide) in alignment at lines 635--668
  [] [] 
  []
 
 ignored error: Infinite glue shrinkage found in box being split [21]
 ignored error: Infinite glue shrinkage found in box being split [22]
-Underfull \hbox (badness 10000) in paragraph at lines 673--732
+Underfull \hbox (badness 10000) in paragraph at lines 674--733
 
  []
 
 [23] [24] [25]
-Overfull \hbox (0.79726pt too wide) in paragraph at lines 735--747
+Overfull \hbox (0.79726pt too wide) in paragraph at lines 736--748
 \T1/cmr/m/n/12 - \T1/cmr/bx/n/12 Ca-bi-net CA-SA-LONGA\T1/cmr/m/n/12 . Com-mu-n
 i-ca-tion : ^^S De-ter-mi-nants of vi-neyard prices ^^T (March
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 735--747
+Underfull \hbox (badness 10000) in paragraph at lines 736--748
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 750--751
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 756--774
+Overfull \hbox (6.0pt too wide) in alignment at lines 757--775
  [] [] 
  []
 
 ignored error: Infinite glue shrinkage found in box being split [26]
-Underfull \hbox (badness 10000) in paragraph at lines 780--822
+Underfull \hbox (badness 10000) in paragraph at lines 781--823
 
  []
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 825--826
+Underfull \hbox (badness 10000) in paragraph at lines 826--827
 
  []
 
 
-Overfull \hbox (0.13786pt too wide) in paragraph at lines 833--854
+Overfull \hbox (0.13786pt too wide) in paragraph at lines 834--855
 \T1/cmr/m/n/12 - \T1/cmr/m/it/12 ADRES In-ter-na-tio-nal Confe-rence, Net-works
  of In-no-va-tion and Spa-tial Ana-ly-sis of Know-
  []
 
 
-Overfull \hbox (6.53622pt too wide) in paragraph at lines 833--854
+Overfull \hbox (6.53622pt too wide) in paragraph at lines 834--855
 \T1/cmr/m/n/12 - \T1/cmr/m/it/12 First Se-mi-nar of Spa-tial Eco-no-me-trics JE
 AN PAE-LINCK\T1/cmr/m/n/12 , Uni-ver-sity of Za-ra-goza (Spain),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 833--854
+Underfull \hbox (badness 10000) in paragraph at lines 834--855
 
  []
 
 [28]
-Overfull \hbox (2.37914pt too wide) in paragraph at lines 859--901
+Overfull \hbox (2.37914pt too wide) in paragraph at lines 860--902
 \T1/cmr/m/n/12 - \T1/cmr/m/it/12 3$[]$ Spa-tial Eco-no-me-trics Work-shop\T1/cm
 r/m/n/12 , BETA (UMR-CNRS 7522), Uni-ver-sité Louis Pasteur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 859--901
+Underfull \hbox (badness 10000) in paragraph at lines 860--902
 
  []
 
 [29] [30] [31]
-Underfull \hbox (badness 10000) in paragraph at lines 908--909
+Underfull \hbox (badness 10000) in paragraph at lines 909--910
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 910--918
+Overfull \hbox (6.0pt too wide) in alignment at lines 911--919
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 920--921
+Underfull \hbox (badness 10000) in paragraph at lines 921--922
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 924--952
+Overfull \hbox (6.0pt too wide) in alignment at lines 925--953
  [] [] 
  []
 
 ignored error: Infinite glue shrinkage found in box being split [32]
-Overfull \hbox (6.0pt too wide) in alignment at lines 958--964
+Overfull \hbox (6.0pt too wide) in alignment at lines 959--965
  [] [] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 970--972
+Overfull \hbox (6.0pt too wide) in alignment at lines 971--973
  [] [] 
  []
 
 
-Overfull \hbox (8.08806pt too wide) in paragraph at lines 974--975
+Overfull \hbox (8.08806pt too wide) in paragraph at lines 975--976
 \T1/cmr/bx/sc/14.4 Eco-no-mics and Bu-si-ness De-part-ment, Uni-ver-sité Bour-g
 ogne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 974--975
+Underfull \hbox (badness 10000) in paragraph at lines 975--976
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 976--987
+Overfull \hbox (6.0pt too wide) in alignment at lines 977--988
  [] [] 
  []
 
 ignored error: Infinite glue shrinkage found in box being split [33]
-Underfull \hbox (badness 10000) in paragraph at lines 991--992
+Underfull \hbox (badness 10000) in paragraph at lines 992--993
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 993--995
+Overfull \hbox (6.0pt too wide) in alignment at lines 994--996
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 999--1000
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1001
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 1001--1016
+Overfull \hbox (6.0pt too wide) in alignment at lines 1002--1017
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1022
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 1024--1026
+Overfull \hbox (6.0pt too wide) in alignment at lines 1025--1027
  [] [] 
  []
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1033
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 1036--1038
+Overfull \hbox (6.0pt too wide) in alignment at lines 1037--1039
  [] [] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 1042--1044
+Overfull \hbox (6.0pt too wide) in alignment at lines 1043--1045
  [] [] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 1048--1050
+Overfull \hbox (6.0pt too wide) in alignment at lines 1049--1051
  [] [] 
  []
 
@@ -874,12 +873,12 @@ Package rerunfilecheck Info: File `CV_JLG_ang.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10700 strings out of 467871
- 171252 string characters out of 5418377
- 624720 words of memory out of 5000000
+ 171252 string characters out of 5418376
+ 623992 words of memory out of 5000000
  39409 multiletter control sequences out of 15000+600000
  641485 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,4142b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,4142b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\jlega\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc
 0800.pk> <C:\Users\jlega\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecti0800.pk> <C:\Users\jlega\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -897,7 +896,7 @@ Users\jlega\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk
 ><C:/Users/jlega/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mr12.pfb><C:/Users/jlega/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding
 /uzdr.pfb>
-Output written on CV_JLG_ang.pdf (35 pages, 280994 bytes).
+Output written on CV_JLG_ang.pdf (35 pages, 281085 bytes).
 PDF statistics:
  726 PDF objects out of 1000 (max. 8388607)
  57 named destinations out of 1000 (max. 500000)
