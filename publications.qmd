@@ -40,7 +40,7 @@ toc: false
 
 ### Refereed Articles (English)
 
-- Breuillé, M., Delmas, L., Grivault, C., Le Gallo, J. (forthcoming). [Evaluating fiscal equalization in France: Redistributive performance, cost-efficiency, and needs alignment](https://www.sciencedirect.com/journal/global-challenges-and-regional-science). *Global Challenges & Regional Science*.
+- Breuillé, M., Delmas, L., Grivault, C., Le Gallo, J. (forthcoming). [Evaluating fiscal equalization in France: Redistributive performance, cost-efficiency, and needs alignment](https://www.sciencedirect.com/science/article/pii/S3050502X26000094). *Global Challenges & Regional Science*.
 - Allam, Y., Breuillé, M., Le Gallo, J. (forthcoming). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*.
 - Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, 8.
 - Ben Youssef, F., Kriaa, M., Le Gallo, J. (2026). [Impact of migration status on employment quality: Causal empirical evidence for Tunisian migrants](https://doi.org/10.1080/00036846.2025.2495888). *Applied Economics*, 58(22), 4373-4385.
@@ -353,7 +353,7 @@ toc: false
 
 ### 4. Local Public Economics
 
-- Breuillé, M., Delmas, L., Grivault, C., Le Gallo, J. (forthcoming). [Evaluating fiscal equalization in France: Redistributive performance, cost-efficiency, and needs alignment](https://www.sciencedirect.com/journal/global-challenges-and-regional-science). *Global Challenges & Regional Science*.
+- Breuillé, M., Delmas, L., Grivault, C., Le Gallo, J. (forthcoming). [Evaluating fiscal equalization in France: Redistributive performance, cost-efficiency, and needs alignment](https://www.sciencedirect.com/science/article/pii/S3050502X26000094). *Global Challenges & Regional Science*.
 - Galli, F., Le Gallo, J., Piedra-Peña, J.A., Breuillé, M. (2026). [Is compulsory inter-municipal cooperation an efficiency booster?](https://www.sciencedirect.com/science/article/pii/S0166046225001024) *Regional Science and Urban Economics*, 117, 104185.
 - Agrawal, D., Le Gallo, J., Breuillé, M.-L. (2025). [Tax competition with intermunicipal cooperation](https://www.journals.uchicago.edu/doi/abs/10.1086/733246). *National Tax Journal*, 78(1), 5–43. **[Prix Musgrave]**
 - Le Gallo, J., Breuillé, M.-L. (2025). [Local public cooperation](https://www.e-elgar.com/shop/gbp/thematic-encyclopedia-of-regional-science-9781800379275.html). In *Thematic Encyclopedia of Regional Science*. Edward Elgar.
