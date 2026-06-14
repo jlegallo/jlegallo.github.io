@@ -41,7 +41,7 @@ toc: false
 ### Refereed Articles (English)
 
 - Breuillé, M., Delmas, L., Grivault, C., Le Gallo, J. (forthcoming). [Evaluating fiscal equalization in France: Redistributive performance, cost-efficiency, and needs alignment](https://www.sciencedirect.com/science/article/pii/S3050502X26000094). *Global Challenges & Regional Science*.
-- Allam, Y., Breuillé, M., Le Gallo, J. (forthcoming). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*.
+- Allam, Y., Breuillé, M., Le Gallo, J. (2026). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*, 66(3), 928-949.
 - Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, 8.
 - Ben Youssef, F., Kriaa, M., Le Gallo, J. (2026). [Impact of migration status on employment quality: Causal empirical evidence for Tunisian migrants](https://doi.org/10.1080/00036846.2025.2495888). *Applied Economics*, 58(22), 4373-4385.
 - Galli, F., Le Gallo, J., Piedra-Peña, J.A., Breuillé, M. (2026). [Is compulsory inter-municipal cooperation an efficiency booster?](https://www.sciencedirect.com/science/article/pii/S0166046225001024) *Regional Science and Urban Economics*, 117, 104185.
@@ -165,7 +165,7 @@ toc: false
 
 ### Editorials
 
-- Le Gallo, J. (2025). Introduction of Julie Le Gallo, Editor-in-Chief as of January 2025. *Journal of Geographical Systems*, 27, pp. 5–6.
+- Fadhuile, A., Le Gallo, J. (2026). [Introduction to the special issue: Recent advances in spatial statistics and spatial econometrics - selected papers from the 22nd International Workshop on Spatial Econometrics and Statistics (SEW 2024)](https://link.springer.com/article/10.1007/s10109-026-00504-8). *Journal of Geographical Systems*.
 - Le Gallo, J., Guillain, R. (2020). [Recent developments in spatial statistics and spatial econometrics](https://link.springer.com/article/10.1007/s00168-020-00983-7). *Annals of Regional Science*, 64(2), pp. 239–241.
 - Le Gallo, J., Puech, F. (2019). [La structuration de l'espace économique](https://www.cairn.info/revue-economique-2019-3-page-301.htm). *Revue Economique*, 70(3), pp. 301–304.
 - Le Gallo, J., Guillain, R. (2017). [Analyse économique de changements d'usage du sol](http://www.cairn.info/revue-economique-2017-3-p-405.htm). *Revue Economique*, 68, pp. 405–408.
@@ -323,7 +323,7 @@ toc: false
 
 ### 3. Land Use, Land and Housing Economics
 
-- Allam, Y., Breuillé, M., Le Gallo, J. (forthcoming). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*.
+- Allam, Y., Breuillé, M., Le Gallo, J. (2026). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*, 66(3), 928-949.
 - Dubé, J., Le Gallo, J., Hilal, M., Chapel, C., Des Rosiers, F. (2025). [Is there additional price premium for single-family houses exposed to urban park?](https://www.sciencedirect.com/science/article/pii/S0301479725033936) *Journal of Environmental Management*, 394, 127417.
 - Morin, Y., Le Gallo, J., Regnaud, M., Breuillé, M. (2025). [PARIS2019: The impact of rent control on the Parisian rental market](https://www.sciencedirect.com/science/article/pii/S1051137725000609). *Journal of Housing Economics*, 70, 102101.
 - Chasco, C., Le Gallo, J., Lopez, F. (2024). [The spatial structure of housing process in Madrid](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-8033-4_58). In *Handbook of Scan Statistics*. Springer.
