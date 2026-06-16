@@ -40,6 +40,7 @@ toc: false
 
 ### Refereed Articles (English)
 
+- Lei, R., Ay, J.S., Le Gallo, J., Dupré, O. (forthcoming). [Housing wealth beyond prices: Individual portfolios, distant assets, and transfers in France 2011–2022](https://onlinelibrary.wiley.com/journal/14754991). *Review of Income and Wealth*.
 - Breuillé, M., Delmas, L., Grivault, C., Le Gallo, J. (forthcoming). [Evaluating fiscal equalization in France: Redistributive performance, cost-efficiency, and needs alignment](https://www.sciencedirect.com/science/article/pii/S3050502X26000094). *Global Challenges & Regional Science*.
 - Allam, Y., Breuillé, M., Le Gallo, J. (2026). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*, 66(3), 928-949.
 - Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, 8.
@@ -294,6 +295,7 @@ toc: false
 
 ### 2. Location Choices and Spatial Distribution of Economic Activities
 
+- Lei, R., Ay, J.S., Le Gallo, J., Dupré, O. (forthcoming). [Housing wealth beyond prices: Individual portfolios, distant assets, and transfers in France 2011–2022](https://onlinelibrary.wiley.com/journal/14754991). *Review of Income and Wealth*.
 - Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, vol. 6.
 - Dubé, J., Le Gallo, J., Hilal, M., Champagne, M.-P., Legros, D. (2026). [Can public investment in transport influence densification and land use? Evidence from the Tramway of Dijon (France)](https://www.sciencedirect.com/science/article/pii/S0967070X25004706). *Transport Policy*, 176, 103927.
 - Ben Youssef, F., Kriaa, M., Le Gallo, J. (2026). [Impact of migration status on employment quality: Causal empirical evidence for Tunisian migrants](https://doi.org/10.1080/00036846.2025.2495888). *Applied Economics*, 58(22), 4373-4385.
