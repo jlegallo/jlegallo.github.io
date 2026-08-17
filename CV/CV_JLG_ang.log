@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.7.20)  20 JUL 2026 20:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.17)  17 AUG 2026 09:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,12 +506,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 352--353
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--362
+Underfull \hbox (badness 10000) in paragraph at lines 358--361
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--370
+Underfull \hbox (badness 10000) in paragraph at lines 362--370
 
  []
 
@@ -897,7 +897,7 @@ Users\jlega\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk
 ><C:/Users/jlega/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mr12.pfb><C:/Users/jlega/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding
 /uzdr.pfb>
-Output written on CV_JLG_ang.pdf (35 pages, 282548 bytes).
+Output written on CV_JLG_ang.pdf (35 pages, 283042 bytes).
 PDF statistics:
  729 PDF objects out of 1000 (max. 8388607)
  57 named destinations out of 1000 (max. 500000)
