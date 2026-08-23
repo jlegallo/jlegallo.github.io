@@ -40,8 +40,9 @@ toc: false
 
 ### Refereed Articles (English)
 
-- Dabou, Y., Le Gallo, J., Védrine, L. (forthcoming). [How agricultural subsidies shape local employment: Evidence from the French support policies for mountain areas](https://link.springer.com/journal/168). *Annals of Regional Science*.
+- Marin, I., Dubé, J., Le Gallo, J. (forthcoming). [The spatial structure of competitive interactions: Evidence from public procurement networks in Quebec](https://journals.sagepub.com/home/irx). *International Regional Science Review*.
 - Lei, R., Ay, J.S., Le Gallo, J., Dupré, O. (forthcoming). [Housing wealth beyond prices: Individual portfolios, distant assets, and transfers in France 2011–2022](http://dx.doi.org/10.1111/roiw.70085). *Review of Income and Wealth*.
+- Dabou, Y., Le Gallo, J., Védrine, L. (forthcoming). [How agricultural subsidies shape local employment: Evidence from the French support policies for mountain areas](https://link.springer.com/article/10.1007/s00168-026-01537-z). *Annals of Regional Science*, 75(3), 111.
 - Breuillé, M., Delmas, L., Grivault, C., Le Gallo, J. (2026). [Evaluating fiscal equalization in France: Redistributive performance, cost-efficiency, and needs alignment](https://www.sciencedirect.com/science/article/pii/S3050502X26000094). *Global Challenges & Regional Science*, 6, 100032.
 - Allam, Y., Breuillé, M., Le Gallo, J. (2026). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*, 66(3), 928-949.
 - Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, 8.
@@ -296,6 +297,7 @@ toc: false
 
 ### 2. Location Choices and Spatial Distribution of Economic Activities
 
+- Marin, I., Dubé, J., Le Gallo, J. (forthcoming). [The spatial structure of competitive interactions: Evidence from public procurement networks in Quebec](https://journals.sagepub.com/home/irx). *International Regional Science Review*.
 - Lei, R., Ay, J.S., Le Gallo, J., Dupré, O. (forthcoming). [Housing wealth beyond prices: Individual portfolios, distant assets, and transfers in France 2011–2022](http://dx.doi.org/10.1111/roiw.70085). *Review of Income and Wealth*.
 - Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, vol. 6.
 - Dubé, J., Le Gallo, J., Hilal, M., Champagne, M.-P., Legros, D. (2026). [Can public investment in transport influence densification and land use? Evidence from the Tramway of Dijon (France)](https://www.sciencedirect.com/science/article/pii/S0967070X25004706). *Transport Policy*, 176, 103927.
@@ -377,7 +379,7 @@ toc: false
 
 ### 5. Agricultural and Environmental Economics & Policies
 
-- Dabou, Y., Le Gallo, J., Védrine, L. (forthcoming). [How agricultural subsidies shape local employment: Evidence from the French support policies for mountain areas](https://link.springer.com/journal/168). *Annals of Regional Science*.
+- Dabou, Y., Le Gallo, J., Védrine, L. (forthcoming). [How agricultural subsidies shape local employment: Evidence from the French support policies for mountain areas](https://link.springer.com/article/10.1007/s00168-026-01537-z). *Annals of Regional Science*, 75(3), 111.
 - Chapel, C., Le Gallo, J., Hilal, M. (2025). [Review and challenges in the economic valuation of green spaces](https://reunido.uniovi.es/index.php/EBL/article/view/21740). *Economics and Business Letters*, 14(1), 63–74.
 - Yobom, O., Le Gallo, J. (2025). [Food security and weather events: a multidimensional analysis in the Sahel for the period 2000-2016](https://journals.sagepub.com/doi/10.1177/00219096231225949). *Journal of Asian and African Studies*, 60(5), 2972–2993.
 - Bellassen, V., Le Gallo, J., Legras, S., Saint-Cyr, L., Védrine, L. (2023). [Drivers of PES effectiveness: Some evidence from a quantitative meta-analysis](https://www.sciencedirect.com/science/article/pii/S0921800923001192). *Ecological Economics*, 210, 107856.
