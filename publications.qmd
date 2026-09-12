@@ -40,7 +40,7 @@ toc: false
 
 ### Refereed Articles (English)
 
-- Flage, A., Le Gallo, J., Ruedin, D. (forthcoming). [Discrimination during the Paris 2024 Olympics: Evidence from a Field Experiment on Airbnb](https://www.sciencedirect.com/journal/journal-of-housing-economics). *Journal of Housing Economics*.
+- Flage, A., Le Gallo, J., Ruedin, D. (forthcoming). [Discrimination during the Paris 2024 Olympics: Evidence from a Field Experiment on Airbnb](https://www.sciencedirect.com/science/article/abs/pii/S1051137726000483). *Journal of Housing Economics*.
 - Marin, I., Dubé, J., Le Gallo, J. (forthcoming). [The spatial structure of competitive interactions: Evidence from public procurement networks in Quebec](https://journals.sagepub.com/home/irx). *International Regional Science Review*.
 - Lei, R., Ay, J.S., Le Gallo, J., Dupré, O. (forthcoming). [Housing wealth beyond prices: Individual portfolios, distant assets, and transfers in France 2011–2022](http://dx.doi.org/10.1111/roiw.70085). *Review of Income and Wealth*.
 - Dabou, Y., Le Gallo, J., Védrine, L. (forthcoming). [How agricultural subsidies shape local employment: Evidence from the French support policies for mountain areas](https://link.springer.com/article/10.1007/s00168-026-01537-z). *Annals of Regional Science*, 75(3), 111.
@@ -329,7 +329,7 @@ toc: false
 
 ### 3. Land Use, Land and Housing Economics
 
-- Flage, A., Le Gallo, J., Ruedin, D. (forthcoming). [Discrimination during the Paris 2024 Olympics: Evidence from a Field Experiment on Airbnb](https://www.sciencedirect.com/journal/journal-of-housing-economics). *Journal of Housing Economics*.
+- Flage, A., Le Gallo, J., Ruedin, D. (forthcoming). [Discrimination during the Paris 2024 Olympics: Evidence from a Field Experiment on Airbnb](https://www.sciencedirect.com/science/article/abs/pii/S1051137726000483). *Journal of Housing Economics*.
 - Allam, Y., Breuillé, M., Le Gallo, J. (2026). [From sharing to capitalizing: Assessing the rise of Airbnb in housing prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70051). *Journal of Regional Science*, 66(3), 928-949.
 - Dubé, J., Le Gallo, J., Hilal, M., Chapel, C., Des Rosiers, F. (2025). [Is there additional price premium for single-family houses exposed to urban park?](https://www.sciencedirect.com/science/article/pii/S0301479725033936) *Journal of Environmental Management*, 394, 127417.
 - Morin, Y., Le Gallo, J., Regnaud, M., Breuillé, M. (2025). [PARIS2019: The impact of rent control on the Parisian rental market](https://www.sciencedirect.com/science/article/pii/S1051137725000609). *Journal of Housing Economics*, 70, 102101.

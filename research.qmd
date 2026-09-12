@@ -28,20 +28,19 @@ My work combines theoretical advances in **spatial data statistics and econometr
 
 ### Revised and Resubmitted
 
-- Marin, I., Dubé, J., Le Gallo, J., The spatial structure of competitive interactions: Evidence from public procurement networks in Quebec.
 - Piedra-Peña, J.A., Breuillé, M., Le Gallo, J., Borrowing size and functions from nearby cities: The mediating role of inter-municipal cooperation.
 - Chapel, C., Chasco, C., Hilal, M., Le Gallo, J., Velázquez, J., Economic valuation of the benefits of the Natura 2000 network in Castilla-y-Leon (Spain) through rural tourism.
-- Ben Youssef, F., Kriaa, M., Le Gallo, J., Origin-country social protection and migration intentions: Causal evidence from Tunisia.
 
 ### Revise and Resubmit
 
+- Ben Youssef, F., Kriaa, M., Le Gallo, J., Origin-country social protection and migration intentions: Causal evidence from Tunisia.
 - Lei, R., Ay, J.-S., Le Gallo, J., Supporting homeownership cost-effectively according to policy objectives: French evidence.
-- Flage, A., Le Gallo, J., Ruedin, D., Discrimination during the Paris 2024 Olympics: Evidence from a field experiment on Airbnb.
 - Le Gallo, J., Sharp boundaries, blurred realities: Fuzzy convergence clubs for regional well-being in Europe.
+- Le Gallo, J., Exact inference for local multivariate Moran’s I and Geary’s c.
 
 ### Submitted
 
-- Le Gallo, J., Exact inference for local multivariate Moran’s I and Geary’s c.
+
 
 ---
 
