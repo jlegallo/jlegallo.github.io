@@ -40,7 +40,7 @@ My work combines theoretical advances in **spatial data statistics and econometr
 
 ### Submitted
 
-
+- Diallo, A., Le Gallo, J., Data Centre Location Patterns in European Regions: Cross-Sectional Evidence from 329 NUTS2 Regions.
 
 ---
 
