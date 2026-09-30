@@ -40,6 +40,7 @@ toc: false
 
 ### Refereed Articles (English)
 
+- Piedra-Peña, J.A., Breuillé, M., Le Gallo, J., (2026). [Borrowing size and functions from nearby cities: The mediating role of inter-municipal cooperation](https://onlinelibrary.wiley.com/journal/14679787) *Journal of Regional Science*.
 - Flage, A., Le Gallo, J., Ruedin, D. (forthcoming). [Discrimination during the Paris 2024 Olympics: Evidence from a Field Experiment on Airbnb](https://www.sciencedirect.com/science/article/abs/pii/S1051137726000483). *Journal of Housing Economics*.
 - Marin, I., Dubé, J., Le Gallo, J. (forthcoming). [The spatial structure of competitive interactions: Evidence from public procurement networks in Quebec](https://journals.sagepub.com/home/irx). *International Regional Science Review*.
 - Lei, R., Ay, J.S., Le Gallo, J., Dupré, O. (forthcoming). [Housing wealth beyond prices: Individual portfolios, distant assets, and transfers in France 2011–2022](http://dx.doi.org/10.1111/roiw.70085). *Review of Income and Wealth*.
@@ -360,6 +361,7 @@ toc: false
 
 ### 4. Local Public Economics
 
+- Piedra-Peña, J.A., Breuillé, M., Le Gallo, J., (2026). [Borrowing size and functions from nearby cities: The mediating role of inter-municipal cooperation](https://onlinelibrary.wiley.com/journal/14679787) *Journal of Regional Science*.
 - Breuillé, M., Delmas, L., Grivault, C., Le Gallo, J. (2026). [Evaluating fiscal equalization in France: Redistributive performance, cost-efficiency, and needs alignment](https://www.sciencedirect.com/science/article/pii/S3050502X26000094). *Global Challenges & Regional Science, 6, 100032.
 - Galli, F., Le Gallo, J., Piedra-Peña, J.A., Breuillé, M. (2026). [Is compulsory inter-municipal cooperation an efficiency booster?](https://www.sciencedirect.com/science/article/pii/S0166046225001024) *Regional Science and Urban Economics*, 117, 104185.
 - Agrawal, D., Le Gallo, J., Breuillé, M.-L. (2025). [Tax competition with intermunicipal cooperation](https://www.journals.uchicago.edu/doi/abs/10.1086/733246). *National Tax Journal*, 78(1), 5–43. **[Prix Musgrave]**
