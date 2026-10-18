@@ -28,15 +28,14 @@ My work combines theoretical advances in **spatial data statistics and econometr
 
 ### Revised and Resubmitted
 
-- Piedra-Peña, J.A., Breuillé, M., Le Gallo, J., Borrowing size and functions from nearby cities: The mediating role of inter-municipal cooperation.
 - Chapel, C., Chasco, C., Hilal, M., Le Gallo, J., Velázquez, J., Economic valuation of the benefits of the Natura 2000 network in Castilla-y-Leon (Spain) through rural tourism.
 - Le Gallo, J., Sharp boundaries, blurred realities: Fuzzy convergence clubs for regional well-being in Europe.
-
-### Revise and Resubmit
-
 - Ben Youssef, F., Kriaa, M., Le Gallo, J., Origin-country social protection and migration intentions: Causal evidence from Tunisia.
 - Lei, R., Ay, J.-S., Le Gallo, J., Supporting homeownership cost-effectively according to policy objectives: French evidence.
 - Le Gallo, J., Exact inference for local multivariate Moran’s I and Geary’s c.
+
+### Revise and Resubmit
+
 
 ### Submitted
 
@@ -54,11 +53,13 @@ My work combines theoretical advances in **spatial data statistics and econometr
 [![](logos/sgp.png){width="110px"}](https://www.societedesgrandsprojets.fr/)
 :::
 ::: {.column width="85%"}
-**Grand Paris Express: effects on real estate, residential, and tourism dynamics** (2025–2026)
+**Grand Paris Express: effects on real estate, residential, and tourism dynamics** (2025–2027)
 Société des Grands Projets — with M.-L. Breuillé (CESAER) and J. Dubé (Univ. Laval)
 :::
 ::::
 :::
+
+### Completed
 
 ::: {.project}
 :::: {.columns}
@@ -87,16 +88,14 @@ Région Bourgogne Franche-Comté — with M.-L. Breuillé (CESAER)
 ::: {.project}
 :::: {.columns}
 ::: {.column width="15%"}
-[![](logos/ministere.png){width="110px"}](https://www.cohesion-territoires.gouv.fr/)
+[![](logos/puca.jpg){width="110px"}](https://www.urbanisme-puca.gouv.fr/)
 :::
 ::: {.column width="85%"}
 **From mediatic myths to socio-economic realities: spatial dynamics of rural spaces** (2023–2025)
-Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
+PUCA — with M.-L. Breuillé (CESAER)
 :::
 ::::
 :::
-
-### Completed
 
 ::: {.project}
 :::: {.columns}
@@ -108,6 +107,18 @@ Ministère de la Cohésion des Territoires — with M.-L. Breuillé (CESAER)
 APUR — with M.-L. Breuillé (CESAER)
 
 📄 [Report on the impact of rent control in Paris](https://www.apur.org/fr/logement-hebergement/evolution-parc-logements/effets-encadrement-loyers-paris-2023)
+:::
+::::
+:::
+
+::: {.project}
+:::: {.columns}
+::: {.column width="15%"}
+[![](logos/fil.jpg){width="110px"}](https://reseau-financeslocales.org/)
+:::
+::: {.column width="85%"}
+**Evaluating the equalizing performance of State transfers to municipalities and inter-municipal groups** (2022–2024)
+Réseau Finances Locales (FIL) — with M.-L. Breuillé (CESAER)
 :::
 ::::
 :::

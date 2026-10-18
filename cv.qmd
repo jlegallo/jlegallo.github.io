@@ -14,9 +14,9 @@ toc-title: "Contents"
 ## Current Position
 
 **Professor of Economics** (since 2022)
-CESAER — Centre d'Économie et Sociologie Appliquées aux Espaces Ruraux
+CESAER — Centre d'Économie et de Sociologie appliquées à l'Agriculture et aux Espaces Ruraux
 Institut Agro Dijon, Department of Human and Social Sciences
-26 Boulevard Petitjean, 21079 Dijon Cedex, France
+26 Boulevard Docteur Petitjean, 21079 Dijon Cedex, France
 
 ---
 
@@ -27,7 +27,7 @@ Institut Agro Dijon, Department of Human and Social Sciences
 | 2006 | Agrégation de l'Enseignement Supérieur en Sciences Économiques | National competitive examination (France) |
 | 2002 | PhD in Economic Analysis and Policy *(mention: honors)* | Université de Bourgogne |
 
-**PhD thesis:** *Disparités géographiques et convergence entre régions européennes : approche d'économétrie spatiale*
+**PhD thesis:** *Disparités géographiques et convergence des régions européennes : une approche par l'économétrie spatiale*
 
 ---
 
@@ -36,12 +36,13 @@ Institut Agro Dijon, Department of Human and Social Sciences
 | Period | Position | Institution |
 |--------|----------|-------------|
 | 2022 – present | Professor | Institut Agro Dijon |
+| 2021 – 2023 | Head of the Department of Human and Social Sciences | AgroSup Dijon / Institut Agro Dijon |
 | 2015 – 2021 | Professor | AgroSup Dijon |
 | 2008 – 2015 | Professor | Université de Franche-Comté, Dept. of Law, Politics, Economics & Management |
 | 2006 – 2008 | Professor | IUT de Belfort-Montbéliard, Université de Franche-Comté |
-| 2003 – 2006 | Associate Professor *(Maître de conférences)* | Université Montesquieu-Bordeaux |
-| 2002 – 2003 | Visiting Researcher | Regional Economics Applications Laboratory (REAL), University of Illinois |
-| 1998 – 2002 | Teaching Assistant | Département Économie et Gestion, Université de Bourgogne |
+| 2003 – 2006 | Associate Professor *(Maître de conférences)* | Université Montesquieu-Bordeaux IV |
+| 2002 – 2003 | Visiting Researcher | Regional Economics Applications Laboratory (REAL), University of Illinois at Urbana-Champaign |
+| 1998 – 2002 | Teaching Assistant | U.F.R. de Sciences Économiques et de Gestion, Université de Bourgogne |
 
 ---
 
@@ -66,21 +67,22 @@ Institut Agro Dijon, Department of Human and Social Sciences
 
 | Journal | Role | Period |
 |---------|------|--------|
-| [*Journal of Regional Science*](https://onlinelibrary.wiley.com/journal/14679787) | Co-editor | 2026 – present |
+| [*Journal of Regional Science*](https://onlinelibrary.wiley.com/journal/14679787) | Editor | 2026 – present |
 | [*Journal of Geographical Systems*](https://link.springer.com/journal/10109) | Editor-in-Chief | 2025 – present |
-| [*Frontiers in Sustainable Cities — Urban Economics*](https://www.frontiersin.org/journals/sustainable-cities/sections/urban-economics) | Associate Editor | 2024 – present |
+| [*Frontiers in Sustainable Cities — Urban Economics*](https://www.frontiersin.org/journals/sustainable-cities/sections/urban-economics) | Specialty Chief Editor | 2024 – present |
+| [*Région et Développement*](https://regionetdeveloppement.univ-tln.fr/) | Associate Editor | 2008 – present |
 | [*Papers in Regional Science*](https://rsaiconnect.onlinelibrary.wiley.com/journal/14355957) | Co-editor | 2019 – 2024 |
 | [*Spatial Economic Analysis*](https://www.tandfonline.com/loi/rsea20) | Co-editor | 2007 – 2021 |
-| [*Revue d'Economie Régionale et Urbaine*](http://www.reru.fr/) | Co-editor | 2010 – 2015 |
+| [*Revue d'Economie Régionale et Urbaine*](https://www.reru.fr/) | Co-editor | 2010 – 2015 |
 
 ### Editorial Board Member
 
 | Journal | Period |
 |---------|--------|
 | [*Regional Science Policy & Practice*](https://www.sciencedirect.com/journal/regional-science-policy-and-practice) | 2026 – present |
-| [*Journal of Regional Science*](ttps://onlinelibrary.wiley.com/journal/1467978) | 2026 – present |
+| [*Journal of Regional Science*](https://onlinelibrary.wiley.com/journal/14679787) | 2024 – 2025 |
 | [*Econometrics*](https://www.mdpi.com/journal/econometrics) | 2024 – present |
-| [*Journal of the Korean Planning Association*](https://www.kpa1959.or.kr/) | 2023 – present |
+| [*Journal of Korea Planning Association*](https://www.kpa1959.or.kr/) | 2023 – present |
 | [*Revue Economique*](https://reveco.hypotheses.org/a-propos) | 2019 – present |
 | [*Investigaciones Regionales*](https://investigacionesregionales.org/) | 2019 – present |
 | [*International Journal of Urban Sciences*](https://www.tandfonline.com/journals/rjus20) | 2016 – present |
@@ -90,7 +92,7 @@ Institut Agro Dijon, Department of Human and Social Sciences
 | [*Review of Regional Studies*](https://rrs.scholasticahq.com/) | 2007 – present |
 | [*Letters in Spatial and Resource Sciences*](https://link.springer.com/journal/12076) | 2007 – present |
 | [*Journal of Geographical Systems*](https://link.springer.com/journal/10109) | 2019 – 2024 |
-| [*Journal of Spatial Econometrics*](https://link.springer.com/journal/43071) | 2019 – 2023 |
+| [*Journal of Spatial Econometrics*](https://link.springer.com/journal/43071) | 2019 – 2024 |
 | [*Geopolitics under Globalization*](https://www.businessperspectives.org/index.php/journals/geopolitics-under-globalization-2) | 2016 – 2019 |
 | [*Papers in Regional Science*](https://rsaiconnect.onlinelibrary.wiley.com/journal/14355957) | 2009 – 2015 |
 | *ISRN Economics* | 2013 – 2014 |

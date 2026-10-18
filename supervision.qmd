@@ -29,8 +29,8 @@ toc-depth: 2
 | Rawaa LAAJIMI | 2017–2022 | S. Benammou (Univ. Sousse) | — |
 | Oudah YOBOM | 2016–2020 | — | — |
 | Alexandre FLAGE | 2016–2019 | F. Cochard (Univ. Franche-Comté) | — |
-| Youba N'DIAYE | 2014–2018 | M.-L. Breuillé (INRAE) | — |
-| Jean-Christian TISSERAND | 2013–2016 | Y. Gabuthy (Univ. Lorraine) | — |
+| Youba NDIAYE | 2014–2018 | M.-L. Breuillé (INRAE) | — |
+| Jean-Christian TISSERAND | 2013–2016 | Y. Gabuthy (Univ. Franche-Comté) | — |
 | Benjamin LAURENT | 2008–2014 | R. Guillain (Univ. Bourgogne) | — |
 | Laïsa RO'I | 2005–2013 | M.-A. Sénégas (Univ. Bordeaux) | — |
 
