@@ -40,6 +40,7 @@ toc: false
 
 ### Refereed Articles (English)
 
+- Ben Youssef, F., Kriaa, M., Le Gallo, J. (forthcoming). [Origin-country social protection and migration intentions: Causal evidence from Tunisia](https://www.sciencedirect.com/journal/economic-modelling). *Economic Modelling*.
 - Piedra-Peña, J.A., Breuillé, M., Le Gallo, J. (2026). [Borrowing size and functions from nearby cities: The mediating role of inter-municipal cooperation](https://onlinelibrary.wiley.com/doi/10.1111/jors.70103). *Journal of Regional Science*.
 - Flage, A., Le Gallo, J., Ruedin, D. (2026). [Discrimination during the Paris 2024 Olympics: Evidence from a field experiment on Airbnb](https://www.sciencedirect.com/science/article/abs/pii/S1051137726000483). *Journal of Housing Economics*, 74, 102167.
 - Marin, I., Dubé, J., Le Gallo, J. (2026). [The spatial structure of competitive interactions: Evidence from public procurement networks in Quebec](https://doi.org/10.1177/01600176261492720). *International Regional Science Review*.
@@ -302,6 +303,7 @@ toc: false
 
 ### 2. Location Choices and Spatial Distribution of Economic Activities
 
+- Ben Youssef, F., Kriaa, M., Le Gallo, J. (forthcoming). [Origin-country social protection and migration intentions: Causal evidence from Tunisia](https://www.sciencedirect.com/journal/economic-modelling). *Economic Modelling*.
 - Marin, I., Dubé, J., Le Gallo, J. (2026). [The spatial structure of competitive interactions: Evidence from public procurement networks in Quebec](https://doi.org/10.1177/01600176261492720). *International Regional Science Review*.
 - Lei, R., Ay, J.S., Dupré, O., Le Gallo, J. (2026). [Housing wealth beyond prices: Individual portfolios, distant assets, and transfers in France 2011–2022](http://dx.doi.org/10.1111/roiw.70085). *Review of Income and Wealth*, 72(3), e70085.
 - Le Gallo, J. (2026). [Urban economics for sustainable transitions: Grand challenges in urban structure, the urban-rural gradient and city systems](https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2026.1835029/full). *Frontiers in Sustainable Cities*, 8.
