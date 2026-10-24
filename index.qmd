@@ -34,8 +34,6 @@ I am Professor of Economics at [CESAER](https://cesaer.dijon.hub.inrae.fr/) (Cen
 
 My research lies at the intersection of **spatial data statistics and econometrics**, **urban and regional economics**, and **local public economics**. I develop and apply spatial statistical methods to study territorial inequalities, housing markets, fiscal federalism, and the evaluation of territorial public policies.
 
-I am also involved in the [SecGo online seminars](https://sites.google.com/view/secgo/home) in economic geography.
-
 ::: {.about-illustration}
 ![](images/hero-geographie-des-donnees.webp){.about-illustration-image alt="Abstract map combining territories, spatial networks, and statistical curves"}
 :::

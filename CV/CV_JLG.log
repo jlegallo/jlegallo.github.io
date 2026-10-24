@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.19)  19 OCT 2026 13:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2026.10.21)  24 OCT 2026 11:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -428,6 +428,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
+
+
 [1
 
 {C:/Users/jlega/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -445,6 +447,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
+
+
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
@@ -454,6 +458,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--148
 Overfull \hbox (6.0pt too wide) in alignment at lines 151--172
  [] [] 
  []
+
+
 
 [3]
 Overfull \hbox (6.0pt too wide) in alignment at lines 178--197
@@ -470,7 +476,19 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 207--215
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [4]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.215 \end{longtable}
+                     
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[4]
 Overfull \hbox (6.0pt too wide) in alignment at lines 221--239
  [] [] 
  []
@@ -479,6 +497,8 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 221--239
 Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
+
+
 
 [5]
 Underfull \hbox (badness 10000) in paragraph at lines 251--252
@@ -490,7 +510,19 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 253--268
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [6]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.268 \end{longtable}
+                     
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
@@ -510,7 +542,19 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 286--293
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [7]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.293 \end{longtable}
+                     
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[7]
 Overfull \hbox (6.0pt too wide) in alignment at lines 297--302
  [] [] 
  []
@@ -520,10 +564,24 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 307--337
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [8]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.337 \end{longtable}
+                     
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[8]
 Overfull \hbox (6.0pt too wide) in alignment at lines 341--348
  [] [] 
  []
+
+
 
 [9]
 Underfull \hbox (badness 10000) in paragraph at lines 359--360
@@ -561,10 +619,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 402--413
 
  []
 
+
+
 [10]
 Underfull \hbox (badness 10000) in paragraph at lines 414--424
 
  []
+
+
 
 [11]
 Underfull \hbox (badness 10000) in paragraph at lines 425--429
@@ -598,6 +660,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 444--452
 
  []
 
+
+
 [12]
 Underfull \hbox (badness 10000) in paragraph at lines 453--460
 
@@ -607,6 +671,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 453--460
 Underfull \hbox (badness 10000) in paragraph at lines 461--467
 
  []
+
+
 
 [13]
 Underfull \hbox (badness 10000) in paragraph at lines 470--478
@@ -627,6 +693,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 485--487
 Underfull \hbox (badness 10000) in paragraph at lines 488--494
 
  []
+
+
 
 [14]
 Underfull \hbox (badness 10000) in paragraph at lines 495--498
@@ -653,6 +721,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 518--520
 
  []
 
+
+
 [15]
 Underfull \hbox (badness 10000) in paragraph at lines 521--526
 
@@ -667,6 +737,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 527--536
 Underfull \hbox (badness 10000) in paragraph at lines 537--542
 
  []
+
+
 
 [16]
 Underfull \hbox (badness 10000) in paragraph at lines 543--549
@@ -694,6 +766,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 561--564
 
  []
 
+
+
 [17]
 Overfull \hbox (8.36484pt too wide) in paragraph at lines 565--568
 \T1/cmr/bx/it/12 no-mie Ré-gio-nale et Ur-baine\T1/cmr/m/n/12 , 2, pp. 203-216 
@@ -720,6 +794,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 594--595
 
  []
 
+
+
 [18]
 Overfull \hbox (7.39009pt too wide) in paragraph at lines 602--631
 \T1/cmr/bx/it/12 Ma-nuel d'Ana-lyse Spa-tiale\T1/cmr/m/n/12 , 2018, IN-SEE Mé-t
@@ -731,15 +807,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 602--631
 
  []
 
+
+
 [19]
 Underfull \hbox (badness 10000) in paragraph at lines 636--641
 
  []
 
+
+
 [20]
 Underfull \hbox (badness 10000) in paragraph at lines 646--670
 
  []
+
+
 
 [21]
 Underfull \hbox (badness 10000) in paragraph at lines 675--676
@@ -757,6 +839,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 681--690
 
  []
 
+
+
 [22]
 Underfull \hbox (badness 10000) in paragraph at lines 691--692
 
@@ -767,21 +851,64 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 695--713
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [23]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.713 \end{longtable}
+                     
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[23]
 Overfull \hbox (6.0pt too wide) in alignment at lines 717--750
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [24]
-ignored error: Infinite glue shrinkage found in box being split [25]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.750 \end{longtable}
+                     
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[24]
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.750 \end{longtable}
+                     
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 756--815
 
  []
 
-[26] [27] [28]
+
+
+[26]
+
+[27]
+
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 818--830
 
  []
+
+
 
 [29]
 Underfull \hbox (badness 10000) in paragraph at lines 842--843
@@ -804,7 +931,19 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 852--869
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [30]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.869 \end{longtable}
+                     
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[30]
 Overfull \hbox (6.0pt too wide) in alignment at lines 873--879
  [] [] 
  []
@@ -813,6 +952,8 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 873--879
 Underfull \hbox (badness 10000) in paragraph at lines 885--927
 
  []
+
+
 
 [31]
 Underfull \hbox (badness 10000) in paragraph at lines 930--932
@@ -823,6 +964,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 930--932
 Underfull \hbox (badness 10000) in paragraph at lines 935--946
 
  []
+
+
 
 [32]
 Underfull \hbox (badness 10000) in paragraph at lines 951--952
@@ -839,6 +982,8 @@ Overfull \hbox (0.13786pt too wide) in paragraph at lines 958--980
 Underfull \hbox (badness 10000) in paragraph at lines 958--980
 
  []
+
+
 
 [33]
 Overfull \hbox (2.37914pt too wide) in paragraph at lines 985--1028
@@ -857,7 +1002,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 985--1028
 
  []
 
-[34] [35]
+
+
+[34]
+
+[35]
 Underfull \hbox (badness 10000) in paragraph at lines 1037--1038
 
  []
@@ -866,6 +1015,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1037--1038
 Overfull \hbox (6.0pt too wide) in alignment at lines 1039--1058
  [] [] 
  []
+
+
 
 [36]
 Underfull \hbox (badness 10000) in paragraph at lines 1062--1063
@@ -889,7 +1040,19 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 1066--1096
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [37]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.1096 \end{longtable}
+                      
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[37]
 Overfull \hbox (6.0pt too wide) in alignment at lines 1102--1108
  [] [] 
  []
@@ -909,7 +1072,19 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 1120--1132
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [38]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.1132 \end{longtable}
+                      
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[38]
 Underfull \hbox (badness 10000) in paragraph at lines 1136--1137
 
  []
@@ -929,7 +1104,19 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 1146--1161
  [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [39]
+
+! Infinite glue shrinkage found in box being split.
+<argument> Infinite shrink error above ignored ! 
+                                                 
+l.1161 \end{longtable}
+                      
+The box you are \vsplitting contains some infinitely
+shrinkable glue, e.g., `\vss' or `\vskip 0pt minus 1fil'.
+Such glue doesn't belong there; but you can safely proceed,
+since the offensive shrinkability has been made finite.
+
+
+[39]
 Underfull \hbox (badness 10000) in paragraph at lines 1165--1166
 
  []
@@ -959,6 +1146,8 @@ Overfull \hbox (6.0pt too wide) in alignment at lines 1191--1193
  [] [] 
  []
 
+
+
 [40] (CV_JLG.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -968,10 +1157,10 @@ Package rerunfilecheck Info: File `CV_JLG.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11051 strings out of 467871
- 177019 string characters out of 5418375
- 635684 words of memory out of 5000000
- 39743 multiletter control sequences out of 15000+600000
+ 11051 strings out of 467875
+ 177019 string characters out of 5418462
+ 635696 words of memory out of 5000000
+ 39744 multiletter control sequences out of 15000+600000
  643025 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,79p,4211b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -994,7 +1183,7 @@ Users\jlega\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc1440.pk
 \ecbx1728.pk><C:/Users/jlega/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr12.pfb><C:/Users/jlega/AppData/Local/Programs/MiKTeX/fonts/type1/
 urw/zapfding/uzdr.pfb>
-Output written on CV_JLG.pdf (40 pages, 320040 bytes).
+Output written on CV_JLG.pdf (40 pages, 326660 bytes).
 PDF statistics:
  803 PDF objects out of 1000 (max. 8388607)
  68 named destinations out of 1000 (max. 500000)
