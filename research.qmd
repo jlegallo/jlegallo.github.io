@@ -39,6 +39,7 @@ My work combines theoretical advances in **spatial data statistics and econometr
 ### Submitted
 
 - Diallo, A., Le Gallo, J., Data Centre Location Patterns in European Regions: Cross-Sectional Evidence from 329 NUTS2 Regions.
+- Breuillé, M., Caumo, A., Fiorentino, E., Grivault, C., Le Gallo, J., Regnaud, M., Beyond Prices: A Multidimensional Measure of Housing Market Tension in France.
 
 ---
 
