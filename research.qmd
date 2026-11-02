@@ -41,6 +41,10 @@ My work combines theoretical advances in **spatial data statistics and econometr
 - Diallo, A., Le Gallo, J., Data Centre Location Patterns in European Regions: Cross-Sectional Evidence from 329 NUTS2 Regions.
 - Breuillé, M., Caumo, A., Fiorentino, E., Grivault, C., Le Gallo, J., Regnaud, M., Beyond Prices: A Multidimensional Measure of Housing Market Tension in France.
 
+### Working Papers
+
+- Bigler, P., Breuillé, M., Grivault, C., Houde, S., Le Gallo, J., Verlhiac, A. (2026). [From Fireside Intentions to Housing Market Frictions: Evidence from a Major Forest Fire](https://doi.org/10.65864/js3h8de66c). *CESifo Working Paper*, No. 13103.
+
 ---
 
 ## Research Projects
