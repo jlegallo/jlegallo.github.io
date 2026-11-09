@@ -40,6 +40,7 @@ My work combines theoretical advances in **spatial data statistics and econometr
 
 - Diallo, A., Le Gallo, J., Data Centre Location Patterns in European Regions: Cross-Sectional Evidence from 329 NUTS2 Regions.
 - Breuillé, M., Caumo, A., Fiorentino, E., Grivault, C., Le Gallo, J., Regnaud, M., Beyond Prices: A Multidimensional Measure of Housing Market Tension in France.
+- Ben Youssef, F., Ben Amor, N., Kriaa, M., Le Gallo, J., Beyond declared intentions: Machine learning detection of latent migration potential in TUnisia.
 
 ### Working Papers
 
