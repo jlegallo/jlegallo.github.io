@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.27)  10 NOV 2026 11:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.27)  13 NOV 2026 18:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -807,7 +807,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 872--873
 
  []
 
-
+[29]
 Overfull \hbox (3.97693pt too wide) in paragraph at lines 880--902
 \T1/cmr/m/n/12 - \T1/cmr/m/it/12 ADRES In-ter-na-tional Con-fer-ence, Net-works
  of In-no-va-tion and Spa-tial Anal-y-sis of Knowl-
@@ -824,7 +824,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 880--902
 
  []
 
-[29]
+[30]
 Overfull \hbox (2.2109pt too wide) in paragraph at lines 907--950
 \T1/cmr/m/n/12 - \T1/cmr/m/it/12 49$[]$ Eu-ro-pean Congress of the Re-gional Sc
 i-ence As-so-ci-a-tion In-ter-na-tional\T1/cmr/m/n/12 , Lód¹ (Poland),
@@ -859,7 +859,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 907--950
 
  []
 
-[30] [31] [32]
+[31] [32]
 Underfull \hbox (badness 10000) in paragraph at lines 957--958
 
  []
@@ -981,7 +981,7 @@ e/2023/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb></usr/local/texlive/
 2023/texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/20
 23/texmf-dist/fonts/type1/public/cm-super/sfxc2074.pfb></usr/local/texlive/2023
 /texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on CV_JLG_ang.pdf (36 pages, 380501 bytes).
+Output written on CV_JLG_ang.pdf (36 pages, 380465 bytes).
 PDF statistics:
  274 PDF objects out of 1000 (max. 8388607)
  204 compressed objects within 3 object streams

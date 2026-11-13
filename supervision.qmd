@@ -13,7 +13,6 @@ toc-depth: 2
 |---------|-------|------------------|---------|
 | Simon DELAGE | 2024 | M.-L. Breuillé (INRAE) | Geoptis |
 | Fares BEN YOUSSEF | 2024 | M. Kriaa (Univ. Tunis) | — |
-| Ivan MARIN | 2023 | J. Dubé (Univ. Laval, Canada) | — |
 | Louise PHUNG | 2023 | M.-L. Breuillé (INRAE) | CGDD |
 | François LAFONT | 2023 | M.-L. Breuillé (INRAE) | — |
 
@@ -21,6 +20,7 @@ toc-depth: 2
 
 | Student | Years | Co-supervisor(s) | Partner |
 |---------|-------|------------------|---------|
+| Ivan MARIN | 2023-2026 | J. Dubé (Univ. Laval, Canada) | — |
 | Alexandra VERLHIAC | 2022–2025 | M.-L. Breuillé (INRAE) | Groupe AVIV |
 | Martin REGNAUD | 2020–2025 | M.-L. Breuillé (INRAE) | Groupe AVIV |
 | Capucine CHAPEL | 2020–2023 | M. Hilal (INRAE) | — |
