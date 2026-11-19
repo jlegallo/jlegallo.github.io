@@ -40,6 +40,7 @@ toc: false
 
 ### Refereed Articles (English)
 
+- Le Gallo, J. (forthcoming). [Exact inference for local multivariate Moran’s I and Geary’s c](https://onlinelibrary.wiley.com/journal/15384632). *Geographical Analysis*.
 - Ben Youssef, F., Kriaa, M., Le Gallo, J. (2026). [Origin-country social protection regimes and migration intentions: Evidence from Tunisia](https://www.sciencedirect.com/science/article/pii/S0264999326004384). *Economic Modelling*.
 - Piedra-Peña, J.A., Breuillé, M., Le Gallo, J. (2026). [Borrowing size and functions from nearby cities: The mediating role of inter-municipal cooperation](https://onlinelibrary.wiley.com/doi/10.1111/jors.70103). *Journal of Regional Science*.
 - Flage, A., Le Gallo, J., Ruedin, D. (2026). [Discrimination during the Paris 2024 Olympics: Evidence from a field experiment on Airbnb](https://www.sciencedirect.com/science/article/abs/pii/S1051137726000483). *Journal of Housing Economics*, 74, 102167.
@@ -262,6 +263,7 @@ toc: false
 
 ### 1. Spatial Data Statistics and Econometrics
 
+- Le Gallo, J. (forthcoming). [Exact inference for local multivariate Moran’s I and Geary’s c](https://onlinelibrary.wiley.com/journal/15384632). *Geographical Analysis*.
 - Fadhuile, A., Le Gallo, J. (2026). [Introduction to the special issue: Recent advances in spatial statistics and spatial econometrics - selected papers from the 22nd International Workshop on Spatial Econometrics and Statistics (SEW 2024)](https://link.springer.com/article/10.1007/s10109-026-00504-8). *Journal of Geographical Systems*, 28(1), 1–5.
 - Debarsy, N., Le Gallo, J. (2026). [Econométrie des données spatiales: enjeux d'identification et perspectives](https://regionetdeveloppement.univ-tln.fr/wp-content/uploads/14-Legallo.pdf). *Région et Développement*, 62-2025.
 - Ling, Y., Le Gallo, J. (2025). [Choosing right Bayesian tools: A comparative study of modern Bayesian methods in spatial econometric models](https://www.mdpi.com/2225-1146/13/4/49). *Econometrics*, 13(4), 49.
