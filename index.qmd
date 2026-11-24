@@ -12,7 +12,7 @@ page-layout: full
 Professor of Economics  — 
 [Institut Agro Dijon](https://institut-agro-dijon.fr/) — [CESAER](https://cesaer.dijon.hub.inrae.fr/)
 
-[RSAI Fellow, 2026](https://www.regionalscience.org/index.php/news/awards-prizes/item/3647-new-elected-rsai-fellow-for-2026.html){.distinction}
+[![](logos/rsai-hex.png){.distinction-logo alt="RSAI"} RSAI Fellow, 2026](https://www.regionalscience.org/index.php/news/awards-prizes/item/3647-new-elected-rsai-fellow-for-2026.html){.distinction}
 
 ✉ DSHS Longelles
 26 Boulevard Docteur Petitjean
