@@ -79,6 +79,17 @@ h2 {
   margin-top: 2rem;
 }
 
+/* Distinction line under name (e.g. RSAI Fellow) */
+a.distinction {
+  font-size: 0.9rem;
+  font-style: italic;
+  text-decoration: none;
+}
+
+a.distinction:hover {
+  text-decoration: underline;
+}
+
 img.rounded {
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.12);
