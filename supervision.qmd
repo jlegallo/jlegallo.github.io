@@ -11,6 +11,7 @@ toc-depth: 2
 
 | Student | Since | Co-supervisor(s) | Partner |
 |---------|-------|------------------|---------|
+| Mohamed SEMMADI | 2026 | L. Bouzouina (LAET) | — |
 | Simon DELAGE | 2024 | M.-L. Breuillé (INRAE) | Geoptis |
 | Fares BEN YOUSSEF | 2024 | M. Kriaa (Univ. Tunis) | — |
 | Louise PHUNG | 2023 | M.-L. Breuillé (INRAE) | CGDD |
